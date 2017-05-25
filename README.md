@@ -9,28 +9,32 @@ NodeJS
 
 # Installation Instructions:
 
-# Routes:
+First, clone this repo to a directory on your local machine:
+
+```sh
+git clone git@github.com:jmz527/archiver.git
+cd archiver/
+```
+
+Then run the mapper.js file with node, specifying the directory you would like to map into json, like so (Note: if no path is given, defaults to 'target_dirs/testing_grounds'):
+
+```sh
+node mapper.js path/to/directory
+```
 
 # Planning & Wireframes:
-
-# Directory Tree:
 
 
 # TODOS:
 
+-- FILE ANALYSIS & TRACKING
+-- DIRECTORY REFORMATION
+-- DATABASE SETUP
+-- ARCHIVING PROCEDURES
+-- SEARCH, SORT, FILTERING DB QUERIES
+-- CATEGORIES & TAGGING
+-- PLAY COMMAND
 
 
 
-// TODO: FILE ANALYSIS & TRACKING
-
-// TODO: DIRECTORY REFORMATION
-
-// TODO: DATABASE SETUP
-
-// TODO: ARCHIVING PROCEDURES
-
-// TODO: SEARCH, SORT, FILTERING DB QUERIES
-
-// TODO: CATEGORIES & TAGGING
-
-// TODO: PLAY COMMAND
+# Directory Tree:

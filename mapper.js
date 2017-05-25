@@ -5,7 +5,7 @@ var mainUtil = require("./util.js");
 // GLOBAL VARIABLES
 //----------------------------------//
 var targetDir, mapper;
-	targetDir = path.join(".", process.argv[2] || './target_dirs');
+	targetDir = path.join(".", process.argv[2] || './target_dirs/testing_grounds');
 	mapper = { // This is the main object that we will be using
 		targetDir: targetDir,
 		data: null,
@@ -101,9 +101,7 @@ function filesRoundup(Mapr, Obj, pathStr) {
 
 mapper.data = mapperInit(mapper);
 
-console.log(mapper);
-
-// mainUtil.writeFile(['.'], 'map', 'json', mapper);
+mainUtil.writeFile(['.'], 'map', 'json', mapper);
 
 console.log(`//==================================//`);
 
