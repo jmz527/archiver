@@ -1,25 +1,22 @@
 {
-    "first": [
-        {
-            "Name": "Level 1",
-            "Id": 0,
-            "fetching": false,
-            "fetched": false,
-            "error": false
+    "targetDir": "for_testing",
+    "data": {
+        "dirs": {
+            "sub_folder": {
+                "dirs": null,
+                "files": [
+                    "second.json",
+                    "third.json"
+                ]
+            }
         },
-        {
-            "Name": "Level 1",
-            "Id": 1,
-            "fetching": false,
-            "fetched": false,
-            "error": false
-        },
-        {
-            "Name": "Level 1",
-            "Id": 2,
-            "fetching": false,
-            "fetched": false,
-            "error": false
-        }
-    ]
+        "files": [
+            "first.json"
+        ]
+    },
+    "meta": {
+        "fileCount": 3,
+        "dirCount": 1,
+        "depth": 1
+    }
 }

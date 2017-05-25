@@ -10,16 +10,15 @@ let filePath;
 
 // Takes in an array of directory names, a file name, & a file extension
 // Combines it into a path for fs to use
-function filePather(path, fileName, ext) {
-  filePath = "./";
+function filePather(pathArr, fileName, ext) {
 
-  if (path!=null && path.length)
-    filePath += path.join('/');
+  if (pathArr!=null && pathArr.length)
+    filePath = pathArr.join('/');
 
   if (ext != null) {
-    filePath+='/'+fileName+'.'+ext;
+    filePath = path.join(filePath, (fileName+'.'+ext));
   } else {
-    filePath+='/'+fileName;
+    filePath = path.join(filePath, (fileName));
   }
 
   console.log(filePath);
@@ -27,8 +26,8 @@ function filePather(path, fileName, ext) {
 }
 
 // Checks if a thing exists
-function checkFor(path, fileName, ext) {
-  filePath = filePather(path, fileName, ext);
+function checkFor(pathArr, fileName, ext) {
+  filePath = filePather(pathArr, fileName, ext);
 
   return fs.existsSync(filePath)
 }
@@ -42,7 +41,7 @@ function hasFiles(dir) {
 }
 
 // Checks a directory for folders, returns bool
-function hasFolders(dir) {
+function hasDirs(dir) {
   return fs.readdirSync(dir)
     .some(function(item) {
       return fs.statSync(path.join(dir, item)).isDirectory();
@@ -58,7 +57,7 @@ function getFiles(dir) {
 }
 
 // Given a directory, returns an array of directories
-function getFolders(dir) {
+function getDirs(dir) {
     return fs.readdirSync(dir)
       .filter(function(file) {
         return fs.statSync(path.join(dir, file)).isDirectory();
@@ -66,26 +65,27 @@ function getFolders(dir) {
 }
 
 // Reads a JSON file
-function readFile(path, fileName, ext) {
-  filePath = filePather(path, fileName, ext);
+function readFile(pathArr, fileName, ext) {
+  filePath = filePather(pathArr, fileName, ext);
 
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
 // Writes a JSON file
-function writeFile(path, fileName, ext, data) {
-  filePath = filePather(path, fileName, ext);
+function writeFile(pathArr, fileName, ext, data) {
+  filePath = filePather(pathArr, fileName, ext);
 
-  fs.writeFile(filePath, JSON.stringify(data, null, 4), function(err){
-    console.log(`File successfully written! - Check your './${path.join('/')}' directory for ${fileName}.${ext}`);
+  fs.writeFile(filePath, JSON.stringify(data, null, 4), function(err) {
+    console.log(`File successfully written! - Check your './${pathArr.join('/')}' directory for ${fileName}.${ext}`);
   })
 }
 
+//----------------------------------//
 exports.filePather = filePather;
 exports.checkFor = checkFor;
 exports.hasFiles = hasFiles;
-exports.hasFolders = hasFolders;
+exports.hasDirs = hasDirs;
 exports.getFiles = getFiles;
-exports.getFolders = getFolders;
+exports.getDirs = getDirs;
 exports.readFile = readFile;
 exports.writeFile = writeFile;
