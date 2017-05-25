@@ -18,23 +18,24 @@ var targetDir, finalDir, mapper;
 //--------------------------------------------------------------------------//
 // Top-level function that starts us off - maps a directory
 function mapperInit(Mapr) {
-
-	console.log(`//==================================//`);
-	console.log(`Hello! Mapper process initiated! ^_^`);
-	console.log(`Now mapping the "./${Mapr.targetDir}" directory.`);
-	console.log(`//==================================//`);
-
-	let dirExists = mainUtil.checkFor(['.'], Mapr.targetDir, null);
-	let hasFiles = mainUtil.hasFiles(Mapr.targetDir);
-	let hasDirs = mainUtil.hasDirs(Mapr.targetDir);
-
-	// console.log({ dirExists, hasFiles, hasDirs });
+	let dirExists, hasFiles, hasDirs;
+		dirExists = mainUtil.checkFor(['.'], Mapr.targetDir, null);
+		hasFiles = mainUtil.hasFiles(Mapr.targetDir);
+		hasDirs = mainUtil.hasDirs(Mapr.targetDir);
 
 	if (dirExists && (hasFiles || hasDirs)) {
+
+		console.log(`//==================================//`);
+		console.log(`Hello! Mapper process initiated! ^_^`);
+		console.log(`Now mapping the "./${Mapr.targetDir}" directory.`);
+		console.log(`//==================================//`);
+
 		Mapr.data = {};
 		Mapr.meta.depth++;
 		Mapr = mapDirectory(Mapr, Mapr.data, Mapr.targetDir);
+
 	} else if (!hasFiles && !hasDirs) {
+
 		console.log(`ERROR: the "./${Mapr.targetDir}" directory is empty.`);
 	}
 
@@ -42,8 +43,6 @@ function mapperInit(Mapr) {
 }
 
 function mapDirectory(Mapr, Obj, pathStr) {
-
-	// console.log({pathStr});
 
 	// If the target dir has child dirs
 	if (mainUtil.hasDirs(pathStr)) {
@@ -67,12 +66,9 @@ function mapDirectory(Mapr, Obj, pathStr) {
 	return Obj;
 }
 
-// Maps the dirs within a given dir (defined by the pathStr) to the object
+// Maps the dirs within a given dir (defined by the pathStr) to the Obj
 function directoryRoundup(Mapr, Obj, pathStr) {
 	let dirPath, dirs = mainUtil.getDirs(pathStr);
-
-	// console.log(`Directories within ${pathStr}: [${dirs}]`);
-	// console.log(`//==================================//`);
 
 	dirs.forEach(function(dir) {
 		Obj.dirs[dir] = {};
@@ -86,12 +82,9 @@ function directoryRoundup(Mapr, Obj, pathStr) {
 	return Obj;
 }
 
-// Maps the files in a directory to our data object
+// Maps the files in a directory to our data Obj
 function filesRoundup(Mapr, Obj, pathStr) {
-	let name, files = mainUtil.getFiles(pathStr);
-
-	// console.log(`Files within ${pathStr}: [${files}]`);
-	// console.log(`//==================================//`);
+	let files = mainUtil.getFiles(pathStr);
 
 	Obj.files = files;
 	Mapr.meta.fileCount+=files.length;
