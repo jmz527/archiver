@@ -1,16 +1,21 @@
 {
-    "Name": "Level 2",
-    "Id": 0,
-    "Children": [
+    "first": [
         {
-            "Name": "Level 3 - 3rd Child",
+            "Name": "Level 1",
+            "Id": 0,
+            "fetching": false,
+            "fetched": false,
+            "error": false
+        },
+        {
+            "Name": "Level 1",
             "Id": 1,
             "fetching": false,
             "fetched": false,
             "error": false
         },
         {
-            "Name": "Level 3 - 4th Child",
+            "Name": "Level 1",
             "Id": 2,
             "fetching": false,
             "fetched": false,

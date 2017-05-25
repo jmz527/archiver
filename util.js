@@ -39,13 +39,13 @@ function getFolders(dir) {
       });
 }
 
-function readJSONFile(path, fileName, ext) {
+function readFile(path, fileName, ext) {
   filePath = filePather(path, fileName, ext);
 
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-function writeJSONFile(path, fileName, ext, data) {
+function writeFile(path, fileName, ext, data) {
   filePath = filePather(path, fileName, ext);
 
   fs.writeFile(filePath, JSON.stringify(data, null, 4), function(err){
