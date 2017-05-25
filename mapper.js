@@ -5,7 +5,7 @@ var mainUtil = require("./util.js");
 // GLOBAL VARIABLES
 //----------------------------------//
 var targetDir, mapper;
-	targetDir = path.join(".", process.argv[2] || './for_testing');
+	targetDir = path.join(".", process.argv[2] || './target_dirs');
 	mapper = { // This is the main object that we will be using
 		targetDir: targetDir,
 		data: null,
