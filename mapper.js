@@ -23,18 +23,19 @@ function mapperInit(Mapr) {
 	console.log(`Now mapping the "./${Mapr.targetDir}" directory.`);
 	console.log(`//==================================//`);
 
-	let dirExists = mainUtil.checkFor(['.'], Mapr.targetDir, '');
+	let dirExists = mainUtil.checkFor(['.'], Mapr.targetDir, null);
 	let hasFiles = mainUtil.hasFiles(Mapr.targetDir);
 	let hasDirs = mainUtil.hasDirs(Mapr.targetDir);
 
-	console.log({ dirExists, hasFiles, hasDirs });
+	// console.log({ dirExists, hasFiles, hasDirs });
 
-	// if (hasFiles || hasDirs) {
-	// 	Mapr.data = {};
-	// 	Mapr = mapDirectory(Mapr, Mapr.data, Mapr.targetDir);
-	// } else if (!hasFiles && !hasDirs) {
-	// 	console.log(`ERROR: the "./${Mapr.targetDir}" directory is empty.`);
-	// }
+	if (dirExists && (hasFiles || hasDirs)) {
+		Mapr.data = {};
+		Mapr.meta.depth++;
+		Mapr = mapDirectory(Mapr, Mapr.data, Mapr.targetDir);
+	} else if (!hasFiles && !hasDirs) {
+		console.log(`ERROR: the "./${Mapr.targetDir}" directory is empty.`);
+	}
 
 	return Mapr;
 }
