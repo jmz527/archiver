@@ -1,14 +1,14 @@
 var path = require('path');
-var mainUtil = require("./util.js");
+var mainUtil = require("./main_util.js");
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
-var targetDir, finalDir, mapper;
-	targetDir = path.join(".", process.argv[2] || 'target_dirs/testing_grounds');
+var rootDir, finalDir, mapper;
+	rootDir = path.join(".", process.argv[2] || 'target_dirs/testing_grounds');
 	resultingFile = path.join(".", process.argv[3] || 'map');
 	mapper = { // This is the main object that we will be using
-		targetDir: targetDir,
+		rootDir: rootDir,
 		data: null,
 		meta: { fileCount: 0, dirCount: 0, depth: 0 }
 	};
@@ -19,24 +19,24 @@ var targetDir, finalDir, mapper;
 // Top-level function that starts us off - maps a directory
 function mapperInit(Mapr) {
 	let dirExists, hasFiles, hasDirs;
-		dirExists = mainUtil.checkFor(['.'], Mapr.targetDir, null);
-		hasFiles = mainUtil.hasFiles(Mapr.targetDir);
-		hasDirs = mainUtil.hasDirs(Mapr.targetDir);
+		dirExists = mainUtil.checkFor(['.'], Mapr.rootDir, null);
+		hasFiles = mainUtil.hasFiles(Mapr.rootDir);
+		hasDirs = mainUtil.hasDirs(Mapr.rootDir);
 
 	if (dirExists && (hasFiles || hasDirs)) {
 
 		console.log(`//==================================//`);
 		console.log(`Hello! Mapper process initiated! ^_^`);
-		console.log(`Now mapping the "./${Mapr.targetDir}" directory.`);
+		console.log(`Now mapping the "./${Mapr.rootDir}" directory.`);
 		console.log(`//==================================//`);
 
 		Mapr.data = {};
 		Mapr.meta.depth++;
-		Mapr = mapDirectory(Mapr, Mapr.data, Mapr.targetDir);
+		Mapr = mapDirectory(Mapr, Mapr.data, Mapr.rootDir);
 
 	} else if (!hasFiles && !hasDirs) {
 
-		console.log(`ERROR: the "./${Mapr.targetDir}" directory is empty.`);
+		console.log(`ERROR: the "./${Mapr.rootDir}" directory is empty.`);
 	}
 
 	return Mapr;

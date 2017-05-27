@@ -27,7 +27,6 @@ node mapper.js path/to/directory
 
 # TODOS:
 
-
 -- FILE ANALYSIS & TRACKING
 
 -- DIRECTORY REFORMATION
