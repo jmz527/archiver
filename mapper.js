@@ -5,14 +5,15 @@ var mainUtil = require("./util/main_util.js");
 // GLOBAL VARIABLES
 //----------------------------------//
 var rootDir, finalDir, mapper;
-	rootDir = path.join("./target_dirs/", process.argv[2] || '/testing_grounds');
+	rootDir = process.argv[2];
+	// rootDir = path.join("./target_dirs/", process.argv[2] || '/testing_grounds');
 	resultingFile = path.join("./data/", process.argv[3] || 'map');
 	mapper = { // This is the main object that we will be using
 		rootDir: rootDir,
 		data: null,
 		meta: { fileCount: 0, dirCount: 0, depth: 0 }
 	};
-	// console.log({rootDir, resultingFile});
+	console.log({rootDir, resultingFile});
 
 
 // DIRECTORY ANALYSIS & MAPPING
@@ -20,9 +21,11 @@ var rootDir, finalDir, mapper;
 // Top-level function that starts us off - maps a directory
 function mapperInit(Mapr) {
 	let dirExists, hasFiles, hasDirs;
-		dirExists = mainUtil.checkFor(['.'], Mapr.rootDir, null);
+		dirExists = mainUtil.checkFor([''], Mapr.rootDir, null);
 		hasFiles = mainUtil.hasFiles(Mapr.rootDir);
 		hasDirs = mainUtil.hasDirs(Mapr.rootDir);
+
+	// console.log({dirExists, hasFiles, hasDirs});
 
 	if (dirExists && (hasFiles || hasDirs)) {
 
@@ -87,14 +90,16 @@ function directoryRoundup(Mapr, Obj, pathStr) {
 function filesRoundup(Mapr, Obj, pathStr) {
 	let files = mainUtil.getFiles(pathStr);
 
-	Obj.files = files;
-	Mapr.meta.fileCount+=files.length;
+	Obj.files = files.filter((file) => (file != '.DS_Store'));
+	Mapr.meta.fileCount += Obj.files.length;
 
 	return Obj;
 }
 
 
 mapper.data = mapperInit(mapper);
+
+// console.log(mapper)
 
 mainUtil.writeFile(['.'], resultingFile, 'json', mapper);
 

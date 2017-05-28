@@ -5,7 +5,6 @@ const path = require('path');
 const fs = require('fs');
 const os = require('os');
 const cp = require('child_process');
-// const repl = require('repl');
 const buff = require('buffer');
 
 
@@ -20,24 +19,14 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // let test = path.join(__dirname, process.argv[2] || 'target_dirs/testing_grounds');
 // console.log(test);
 
-// console
-// .log
-// .info
-// .warn
-// .error
-// .dir
-// .time
-// .timeEnd
-// .trace
-// .assert
-
-// export
-// exports
+// console.log, console.info, console.warn, console.error, console.dir, console.time, console.timeEnd, console.trace, console.assert
 
 // process
 
 
-// PATH MODULE:
+// // PATH MODULE
+// //--------------------------------------------------------------------------//
+
 // path.basename('./target_dirs/testing_grounds/first.json'); // returns first.json
 // path.dirname('./target_dirs/testing_grounds/first.json'); // returns ./target_dirs/testing_grounds
 // path.extname('./target_dirs/testing_grounds/first.json'); // returns .json
@@ -52,7 +41,8 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 
 
 
-// FS MODULE:
+// // FS MODULE
+// //--------------------------------------------------------------------------//
 
 // fs.mkdirSync()
 // fs.rmdirSync()
@@ -66,7 +56,9 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // fs.open(path.join(__dirname, 'map.json'));
 
 
-// OS MODULE:
+// // OS MODULE
+// //--------------------------------------------------------------------------//
+
 // console.log(os.platform())
 
 // let cache = require.cache;
@@ -79,19 +71,13 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // console.log(global);
 // console.log(process);
 
-// console.log(stdout)
-// console.log(stderr)
 
 
-
-// great resource:
-// https://www.macissues.com/2014/05/12/how-to-look-up-file-metadata-in-os-x/
-
-// CHILD_PROCESS MODULE:
+// // CHILD_PROCESS MODULE
+// //--------------------------------------------------------------------------//
 // cp.exec('open ./map.json');
 // cp.exec('open -a "Google Chrome" https://nodejs.org/en/');
 // cp.exec(`open /Users/jamesrutledge/Movies/GO.m4v`);
-
 // cp.execSync()
 
 // cp.execFile('node', ['--version'], (err, stdout, stderr) => {
@@ -104,6 +90,9 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 
 // cp.fork('./mapper.js'); // <-- spawns a new node instance with 'process.execPath'
 
+
+// // SPAWNS LS & OBTAINS DIR DATA
+// //--------------------------------------------------------------------------//
 // let ls = cp.spawn('ls', ['-lh', './target_dirs']);
 // 	ls.stdout.on('data', (data) => console.log(`stdout: ${data}`));
 // 	ls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
@@ -111,12 +100,19 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // cp.spawnSync()
 
 
+// // SPAWNS MDLS & OBTAINS META DATA
+// //--------------------------------------------------------------------------//
+// // great resource: https://www.macissues.com/2014/05/12/how-to-look-up-file-metadata-in-os-x/
+
 // let mdls = cp.spawn('mdls', ['/Users/jamesrutledge/Movies/GO.m4v']);
 // 	mdls.stdout.on('data', (data) => {
 
 // 		console.log(`stdout: ${data}`);
 // 	})
 
+
+// SPAWNS MDLS & OBTAINS META DATA ATTRIBUTE
+// --------------------------------------------------------------------------//
 // let mdls = cp.spawn('mdls', ['-name', 'kMDItemDurationSeconds', '/Users/jamesrutledge/Movies/GO.m4v']);
 // 	mdls.stdout.on('data', (data) => {
 
@@ -135,23 +131,16 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // 	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
 
 
+// // SPAWNS MDLS - OBTAINS META DATA - GENERATES JSON FILE
+// //--------------------------------------------------------------------------//
+// let mdls = cp.spawn('mdls', ['/Users/jamesrutledge/Movies/GO.m4v']);
+// 	mdls.stdout.on('data', (data) => {
+// 		let dataStr = data.toString("utf-8");
+// 		console.log(`stdout: ${dataStr}`);
 
+// 		mainUtil.writeFile([__dirname, '..', 'data'], 'metadata', 'json', { dataStr });
+// 	})
+// 	mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
+// 	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
 
-let mdls = cp.spawn('mdls', ['/Users/jamesrutledge/Movies/GO.m4v']);
-	mdls.stdout.on('data', (data) => {
-		let dataStr = data.toString("utf-8");
-		console.log(`stdout: ${dataStr}`);
-
-		mainUtil.writeFile([__dirname, '..', 'data'], 'metadata', 'json', { dataStr });
-	})
-	mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
-	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
-
-
-
-// REPL MODULE:
-// repl.start();
-
-
-// mainUtil.writeFile(['.'], 'process', 'json', proc);
 console.log(`//==================================//`);

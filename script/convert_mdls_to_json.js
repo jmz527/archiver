@@ -50,4 +50,4 @@ newArr.forEach((line) => {
 // console.log(newArr);
 // console.log(newObj);
 
-mainUtil.writeFile([__dirname, '..', 'data'], 'metadata', 'json', newObj);
+mainUtil.writeFile([__dirname, '..', 'data'], 'converted_metadata', 'json', newObj);
