@@ -1,11 +1,12 @@
-var mainUtil = require("./main_util.js");
+var mainUtil = require("../util/main_util.js");
 
 // NODE MODULES:
 const path = require('path');
 const fs = require('fs');
 const os = require('os');
 const cp = require('child_process');
-const repl = require('repl');
+// const repl = require('repl');
+const buff = require('buffer');
 
 
 console.log(`//==================================//`);
@@ -13,8 +14,8 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 
 
 // GLOBAL VARS:
-console.log(__dirname);
-console.log(__filename);
+// console.log(__dirname);
+// console.log(__filename);
 
 // let test = path.join(__dirname, process.argv[2] || 'target_dirs/testing_grounds');
 // console.log(test);
@@ -82,6 +83,10 @@ console.log(__filename);
 // console.log(stderr)
 
 
+
+// great resource:
+// https://www.macissues.com/2014/05/12/how-to-look-up-file-metadata-in-os-x/
+
 // CHILD_PROCESS MODULE:
 // cp.exec('open ./map.json');
 // cp.exec('open -a "Google Chrome" https://nodejs.org/en/');
@@ -104,6 +109,44 @@ console.log(__filename);
 // 	ls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
 // 	ls.on('close', (code) => console.log(`child process exited with code ${code}`));
 // cp.spawnSync()
+
+
+// let mdls = cp.spawn('mdls', ['/Users/jamesrutledge/Movies/GO.m4v']);
+// 	mdls.stdout.on('data', (data) => {
+
+// 		console.log(`stdout: ${data}`);
+// 	})
+
+// let mdls = cp.spawn('mdls', ['-name', 'kMDItemDurationSeconds', '/Users/jamesrutledge/Movies/GO.m4v']);
+// 	mdls.stdout.on('data', (data) => {
+
+// 		let dataStr = data.toString("utf-8");
+// 		let dur = parseFloat(dataStr.split('=')[1]);
+
+// 		// console.log(`stdout: ${data}`)
+// 		console.log(`stdout: `)
+// 		console.log(dataStr);
+// 		console.log(dataStr.length);
+// 		console.log(typeof dataStr);
+// 		console.log(dur);
+
+// 	});
+// 	mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
+// 	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
+
+
+
+
+let mdls = cp.spawn('mdls', ['/Users/jamesrutledge/Movies/GO.m4v']);
+	mdls.stdout.on('data', (data) => {
+		let dataStr = data.toString("utf-8");
+		console.log(`stdout: ${dataStr}`);
+
+		mainUtil.writeFile([__dirname, '..', 'data'], 'metadata', 'json', { dataStr });
+	})
+	mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
+	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
+
 
 
 // REPL MODULE:

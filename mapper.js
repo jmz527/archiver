@@ -1,17 +1,18 @@
 var path = require('path');
-var mainUtil = require("./main_util.js");
+var mainUtil = require("./util/main_util.js");
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
 var rootDir, finalDir, mapper;
-	rootDir = path.join(".", process.argv[2] || 'target_dirs/testing_grounds');
-	resultingFile = path.join(".", process.argv[3] || 'map');
+	rootDir = path.join("./target_dirs/", process.argv[2] || '/testing_grounds');
+	resultingFile = path.join("./data/", process.argv[3] || 'map');
 	mapper = { // This is the main object that we will be using
 		rootDir: rootDir,
 		data: null,
 		meta: { fileCount: 0, dirCount: 0, depth: 0 }
 	};
+	// console.log({rootDir, resultingFile});
 
 
 // DIRECTORY ANALYSIS & MAPPING
