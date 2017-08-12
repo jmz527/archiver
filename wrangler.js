@@ -31,6 +31,8 @@ function wranglerInit(map) {
 			// write it to a new json file
 			mainUtil.writeFile([__dirname, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
 
+			console.log(`//==================================//`);
+
 		}, 1000)
 
 
@@ -116,7 +118,6 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 	})
 
 }
-
 
 
 wranglerInit(map)

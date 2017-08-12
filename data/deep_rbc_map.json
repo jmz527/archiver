@@ -45,7 +45,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-21T20:55:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "emcore_asset.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "emcore_asset.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "344",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "344",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "emcore_assets.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/emcore_assets.json",
@@ -69,7 +89,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-21T20:55:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "emcore_assets.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "emcore_assets.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "52619",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "52619",
+                            "kMDItemPhysicalSize": "53248"
+                        }
                     },
                     "emcore_auth.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/emcore_auth.json",
@@ -93,7 +133,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-21T20:55:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "emcore_auth.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "emcore_auth.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "192",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "192",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "emcore_connector.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/emcore_connector.json",
@@ -117,7 +177,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-27T16:20:46.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-27 16:20:46 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "emcore_connector.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-27 16:20:46 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "emcore_connector.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "20048",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "20048",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "rbc_assets.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_assets.json",
@@ -141,7 +221,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T17:30:50.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 17:30:50 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_assets.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 17:30:50 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_assets.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2714",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2714",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_assets_points_with_uom.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_assets_points_with_uom.json",
@@ -165,7 +265,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-05-10T14:20:53.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentModificationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_assets_points_with_uom.json",
+                            "kMDItemFSContentChangeDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_assets_points_with_uom.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "8886",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "8886",
+                            "kMDItemPhysicalSize": "12288"
+                        }
                     },
                     "rbc_assets_timeseries.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_assets_timeseries.json",
@@ -189,7 +309,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-05-10T14:20:53.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentModificationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_assets_timeseries.json",
+                            "kMDItemFSContentChangeDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_assets_timeseries.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "47586",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "47586",
+                            "kMDItemPhysicalSize": "49152"
+                        }
                     },
                     "rbc_assets_types_uimetadata.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_assets_types_uimetadata.json",
@@ -213,7 +353,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-05-10T14:20:53.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentModificationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_assets_types_uimetadata.json",
+                            "kMDItemFSContentChangeDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSCreationDate": "2017-05-10 14:20:53 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_assets_types_uimetadata.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "4059",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "4059",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_auth.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_auth.json",
@@ -237,7 +397,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-21T20:55:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_auth.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_auth.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "447",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "447",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_bills.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_bills.json",
@@ -261,7 +441,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-21T20:55:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_bills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-21 20:55:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_bills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "13722",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "13722",
+                            "kMDItemPhysicalSize": "16384"
+                        }
                     },
                     "rbc_branches.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_branches.json",
@@ -285,7 +485,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T14:25:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_branches.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_branches.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "5667",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "5667",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "rbc_category_stats.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_category_stats.json",
@@ -309,7 +529,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T14:25:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_category_stats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_category_stats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "3330",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "3330",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_filters_definitions.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_filters_definitions.json",
@@ -333,7 +573,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-05-19T20:20:21.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-19 20:20:21 +0000",
+                            "kMDItemContentModificationDate": "2017-05-19 20:20:21 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_filters_definitions.json",
+                            "kMDItemFSContentChangeDate": "2017-05-19 20:20:21 +0000",
+                            "kMDItemFSCreationDate": "2017-05-19 20:20:21 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_filters_definitions.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1060",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1060",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_issues.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_issues.json",
@@ -357,7 +617,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T14:25:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_issues.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_issues.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "431680",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "431680",
+                            "kMDItemPhysicalSize": "434176"
+                        }
                     },
                     "rbc_issues_notes.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_issues_notes.json",
@@ -381,7 +661,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T14:25:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_issues_notes.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_issues_notes.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "941",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "941",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "rbc_issues_trend.json": {
                         "relPath": "target_dirs/rbc_mock_data/api_data_contracts/rbc_issues_trend.json",
@@ -405,7 +705,27 @@
                             "ctime": "2017-05-25T22:31:11.000Z",
                             "birthtime": "2017-04-26T14:25:13.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:11 +0000",
+                            "kMDItemDisplayName": "rbc_issues_trend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "rbc_issues_trend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "11922",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "11922",
+                            "kMDItemPhysicalSize": "12288"
+                        }
                     }
                 }
             },
@@ -439,7 +759,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-04-24T17:59:31.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-24 17:59:31 +0000",
+                            "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "BillsDataContract.json",
+                            "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSCreationDate": "2017-04-24 17:59:31 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "BillsDataContract.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "7072",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "7072",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "BillsData_Example_1.json": {
                         "relPath": "target_dirs/rbc_mock_data/broken_data/BillsData_Example_1.json",
@@ -463,7 +803,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "BillsData_Example_1.json",
+                            "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "BillsData_Example_1.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "15420",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "15420",
+                            "kMDItemPhysicalSize": "16384"
+                        }
                     },
                     "billsAfterConfig.json": {
                         "relPath": "target_dirs/rbc_mock_data/broken_data/billsAfterConfig.json",
@@ -487,7 +847,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "billsAfterConfig.json",
+                            "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "billsAfterConfig.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "15126",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "15126",
+                            "kMDItemPhysicalSize": "16384"
+                        }
                     }
                 }
             },
@@ -559,7 +939,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1293-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1293-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17323",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17323",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "1293-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1293-CategoryStats.json",
@@ -583,7 +983,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1293-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1293-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1886",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1886",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "1293-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1293-IssueTrend.json",
@@ -607,7 +1027,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1293-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1293-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2778",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2778",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "1293-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1293-OpenIssuesTable.json",
@@ -631,7 +1071,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1293-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1293-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "82",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "82",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "1672-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1672-BranchHomeBills.json",
@@ -655,7 +1115,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1672-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1672-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17323",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17323",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "1672-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1672-CategoryStats.json",
@@ -679,7 +1159,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1672-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1672-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1391",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1391",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "1672-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1672-IssueTrend.json",
@@ -703,7 +1203,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1672-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1672-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2781",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2781",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "1672-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/1672-OpenIssuesTable.json",
@@ -727,7 +1247,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "1672-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "1672-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "972",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "972",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3092-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3092-BranchHomeBills.json",
@@ -751,7 +1291,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3092-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3092-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17323",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17323",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "3092-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3092-CategoryStats.json",
@@ -775,7 +1335,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3092-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3092-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3092-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3092-IssueTrend.json",
@@ -799,7 +1379,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3092-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3092-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3092-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3092-OpenIssuesTable.json",
@@ -823,7 +1423,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3092-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3092-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "82",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "82",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3562-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3562-BranchHomeBills.json",
@@ -847,7 +1467,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3562-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3562-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17323",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17323",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "3562-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3562-CategoryStats.json",
@@ -871,7 +1511,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3562-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3562-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3562-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3562-IssueTrend.json",
@@ -895,7 +1555,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3562-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3562-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "3562-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/3562-OpenIssuesTable.json",
@@ -919,7 +1599,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "3562-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "3562-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "7216",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "7216",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "8003-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/8003-BranchHomeBills.json",
@@ -943,7 +1643,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "8003-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "8003-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17322",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17322",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "8003-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/8003-CategoryStats.json",
@@ -967,7 +1687,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "8003-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "8003-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "8003-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/8003-IssueTrend.json",
@@ -991,7 +1731,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "8003-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "8003-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "8003-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/8003-OpenIssuesTable.json",
@@ -1015,7 +1775,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "8003-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "8003-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "82",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "82",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9154-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9154-BranchHomeBills.json",
@@ -1039,7 +1819,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9154-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9154-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17322",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17322",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "9154-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9154-CategoryStats.json",
@@ -1063,7 +1863,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9154-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9154-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9154-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9154-IssueTrend.json",
@@ -1087,7 +1907,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9154-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9154-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9154-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9154-OpenIssuesTable.json",
@@ -1111,7 +1951,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9154-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9154-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "7216",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "7216",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "9160-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9160-BranchHomeBills.json",
@@ -1135,7 +1995,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9160-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9160-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17322",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17322",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "9160-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9160-CategoryStats.json",
@@ -1159,7 +2039,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9160-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9160-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9160-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9160-IssueTrend.json",
@@ -1183,7 +2083,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9160-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9160-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9160-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9160-OpenIssuesTable.json",
@@ -1207,7 +2127,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9160-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9160-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "82",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "82",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9892-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9892-BranchHomeBills.json",
@@ -1231,7 +2171,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9892-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9892-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "4855",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "4855",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "9892-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9892-CategoryStats.json",
@@ -1255,7 +2215,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9892-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9892-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9892-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9892-IssueTrend.json",
@@ -1279,7 +2259,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9892-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9892-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "9892-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/9892-OpenIssuesTable.json",
@@ -1303,7 +2303,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "9892-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "9892-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "7216",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "7216",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "A374-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A374-BranchHomeBills.json",
@@ -1327,7 +2347,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A374-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A374-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17322",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17322",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "A374-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A374-CategoryStats.json",
@@ -1351,7 +2391,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A374-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A374-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1884",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1884",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "A374-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A374-IssueTrend.json",
@@ -1375,7 +2435,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A374-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A374-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "A374-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A374-OpenIssuesTable.json",
@@ -1399,7 +2479,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A374-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A374-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "7216",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "7216",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     },
                     "A450-BranchHomeBills.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A450-BranchHomeBills.json",
@@ -1423,7 +2523,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A450-BranchHomeBills.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A450-BranchHomeBills.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "17322",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "17322",
+                            "kMDItemPhysicalSize": "20480"
+                        }
                     },
                     "A450-CategoryStats.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A450-CategoryStats.json",
@@ -1447,7 +2567,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A450-CategoryStats.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A450-CategoryStats.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1571",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1571",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "A450-IssueTrend.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A450-IssueTrend.json",
@@ -1471,7 +2611,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A450-IssueTrend.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A450-IssueTrend.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "2776",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "2776",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "A450-OpenIssuesTable.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/A450-OpenIssuesTable.json",
@@ -1495,7 +2655,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-03-17T01:08:57.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "A450-OpenIssuesTable.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "A450-OpenIssuesTable.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "82",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "82",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "Fake-BranchList.json": {
                         "relPath": "target_dirs/rbc_mock_data/fake_data_sets/Fake-BranchList.json",
@@ -1519,7 +2699,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T20:51:48.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "Fake-BranchList.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "Fake-BranchList.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "4421",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "4421",
+                            "kMDItemPhysicalSize": "8192"
+                        }
                     }
                 }
             },
@@ -1551,7 +2751,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-04-18T14:07:05.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-04-18 14:07:05 +0000",
+                            "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "agency_tree_json_gen.js",
+                            "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                            "kMDItemFSCreationDate": "2017-04-18 14:07:05 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "agency_tree_json_gen.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "663",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "663",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     }
                 }
             },
@@ -1595,7 +2815,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-02T16:12:44.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-02 16:12:44 +0000",
+                            "kMDItemContentModificationDate": "2017-05-02 16:12:44 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "asset_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-02 16:12:44 +0000",
+                            "kMDItemFSCreationDate": "2017-05-02 16:12:44 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "asset_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1161",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "1161",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "asset_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/asset_init.json",
@@ -1619,7 +2859,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-12T14:00:21.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemContentModificationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "asset_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemFSCreationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "asset_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "868",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "868",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "branch_init.js": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/branch_init.js",
@@ -1643,7 +2903,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-02T16:12:46.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-02 16:12:46 +0000",
+                            "kMDItemContentModificationDate": "2017-05-02 16:12:46 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "branch_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-02 16:12:46 +0000",
+                            "kMDItemFSCreationDate": "2017-05-02 16:12:46 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "branch_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "359",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "359",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "branch_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/branch_init.json",
@@ -1667,7 +2947,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-04T15:09:02.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "branch_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "branch_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "185",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "185",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "nav_init.js": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/nav_init.js",
@@ -1691,7 +2991,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:57:58.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentModificationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "nav_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "nav_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "539",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "539",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "nav_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/nav_init.json",
@@ -1715,7 +3035,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:57:58.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentModificationDate": "2017-05-23 22:44:34 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "nav_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-23 22:44:34 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "nav_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "503",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "503",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "plot_init.js": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/plot_init.js",
@@ -1739,7 +3079,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-02T16:12:49.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-02 16:12:49 +0000",
+                            "kMDItemContentModificationDate": "2017-05-02 16:12:49 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "plot_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-02 16:12:49 +0000",
+                            "kMDItemFSCreationDate": "2017-05-02 16:12:49 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "plot_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "760",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "760",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "plot_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/plot_init.json",
@@ -1763,7 +3123,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-04T15:09:02.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentModificationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "plot_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSCreationDate": "2017-05-04 15:09:02 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "plot_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "603",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "603",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "schedule_init.js": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/schedule_init.js",
@@ -1787,7 +3167,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-09T19:30:00.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentModificationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "schedule_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "schedule_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "851",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "851",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "schedule_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/schedule_init.json",
@@ -1811,7 +3211,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-12T14:00:21.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemContentModificationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "schedule_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemFSCreationDate": "2017-05-12 14:00:21 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "schedule_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "642",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "642",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "state_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/state_init.json",
@@ -1835,7 +3255,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:57:58.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentModificationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "state_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "state_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "3482",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "3482",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "user_init.js": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/user_init.js",
@@ -1859,7 +3299,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:57:58.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentModificationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentType": "com.netscape.javascript-source",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "user_init.js",
+                            "kMDItemFSContentChangeDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "user_init.js",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1015",
+                            "kMDItemKind": "JavaScript script",
+                            "kMDItemLogicalSize": "1015",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "user_init.json": {
                         "relPath": "target_dirs/rbc_mock_data/original_init_state/user_init.json",
@@ -1883,7 +3343,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:57:58.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentModificationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "user_init.json",
+                            "kMDItemFSContentChangeDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:57:58 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "user_init.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "334",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "334",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     }
                 }
             },
@@ -1923,7 +3403,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-09T19:30:00.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentModificationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "emcore_lightswitch_connector.json",
+                            "kMDItemFSContentChangeDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "emcore_lightswitch_connector.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "1440",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "1440",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "empty_connector.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/empty_connector.json",
@@ -1947,7 +3447,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-16T20:54:35.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-16 20:54:35 +0000",
+                            "kMDItemContentModificationDate": "2017-05-16 20:54:35 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "empty_connector.json",
+                            "kMDItemFSContentChangeDate": "2017-05-16 20:54:35 +0000",
+                            "kMDItemFSCreationDate": "2017-05-16 20:54:35 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "empty_connector.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "15722",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "15722",
+                            "kMDItemPhysicalSize": "16384"
+                        }
                     },
                     "lights_populated.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/lights_populated.json",
@@ -1971,7 +3491,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T15:55:23.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "lights_populated.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "lights_populated.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "441",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "441",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "lights_schedule.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/lights_schedule.json",
@@ -1995,7 +3535,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T15:55:23.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "lights_schedule.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "lights_schedule.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "148",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "148",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "schedule_contract.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/schedule_contract.json",
@@ -2019,7 +3579,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-09T19:30:00.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentModificationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "schedule_contract.json",
+                            "kMDItemFSContentChangeDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "schedule_contract.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "635",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "635",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "schedule_populated.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/schedule_populated.json",
@@ -2043,7 +3623,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-09T19:30:00.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentModificationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "schedule_populated.json",
+                            "kMDItemFSContentChangeDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSCreationDate": "2017-05-09 19:30:00 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "schedule_populated.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "975",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "975",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "thermostats_populated.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/thermostats_populated.json",
@@ -2067,7 +3667,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T15:55:23.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "thermostats_populated.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "thermostats_populated.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "965",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "965",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "thermostats_schedule.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/thermostats_schedule.json",
@@ -2091,7 +3711,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-11T15:55:23.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentModificationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "thermostats_schedule.json",
+                            "kMDItemFSContentChangeDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSCreationDate": "2017-05-11 15:55:23 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "thermostats_schedule.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "631",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "631",
+                            "kMDItemPhysicalSize": "4096"
+                        }
                     },
                     "updated_connector.json": {
                         "relPath": "target_dirs/rbc_mock_data/scheduler_sets/updated_connector.json",
@@ -2115,7 +3755,27 @@
                             "ctime": "2017-05-25T22:31:12.000Z",
                             "birthtime": "2017-05-17T17:41:56.000Z"
                         },
-                        "meta": null
+                        "meta": {
+                            "_kMDItemOwnerUserID": "501",
+                            "kMDItemContentCreationDate": "2017-05-17 17:41:56 +0000",
+                            "kMDItemContentModificationDate": "2017-05-17 17:41:56 +0000",
+                            "kMDItemContentType": "public.json",
+                            "kMDItemDateAdded": "2017-05-25 22:31:12 +0000",
+                            "kMDItemDisplayName": "updated_connector.json",
+                            "kMDItemFSContentChangeDate": "2017-05-17 17:41:56 +0000",
+                            "kMDItemFSCreationDate": "2017-05-17 17:41:56 +0000",
+                            "kMDItemFSFinderFlags": "0",
+                            "kMDItemFSInvisible": "0",
+                            "kMDItemFSIsExtensionHidden": "0",
+                            "kMDItemFSLabel": "0",
+                            "kMDItemFSName": "updated_connector.json",
+                            "kMDItemFSOwnerGroupID": "20",
+                            "kMDItemFSOwnerUserID": "501",
+                            "kMDItemFSSize": "10161",
+                            "kMDItemKind": "JSON",
+                            "kMDItemLogicalSize": "10161",
+                            "kMDItemPhysicalSize": "12288"
+                        }
                     }
                 }
             }
@@ -2174,7 +3834,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "AssetsDropdown.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "AssetsDropdown.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "0",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "0",
+                    "kMDItemPhysicalSize": "0"
+                }
             },
             "BillResponse.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillResponse.json",
@@ -2198,7 +3878,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-05-11T20:51:48.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-05-11 20:51:48 +0000",
+                    "kMDItemContentModificationDate": "2017-05-11 20:51:48 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillResponse.json",
+                    "kMDItemFSContentChangeDate": "2017-05-11 20:51:48 +0000",
+                    "kMDItemFSCreationDate": "2017-05-11 20:51:48 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillResponse.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "32949",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "32949",
+                    "kMDItemPhysicalSize": "36864"
+                }
             },
             "BillsData.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillsData.json",
@@ -2222,7 +3922,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-04-24T18:19:10.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:19:10 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillsData.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:19:10 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillsData.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "19916",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "19916",
+                    "kMDItemPhysicalSize": "20480"
+                }
             },
             "BillsDataBase.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillsDataBase.json",
@@ -2246,7 +3966,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-04-24T18:21:13.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:21:13 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillsDataBase.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:21:13 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillsDataBase.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "18746",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "18746",
+                    "kMDItemPhysicalSize": "20480"
+                }
             },
             "BillsDataContract_AllBaseBills.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillsDataContract_AllBaseBills.json",
@@ -2270,7 +4010,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-04-24T18:23:38.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:23:38 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillsDataContract_AllBaseBills.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:23:38 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillsDataContract_AllBaseBills.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "18889",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "18889",
+                    "kMDItemPhysicalSize": "20480"
+                }
             },
             "BillsNoProjections.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillsNoProjections.json",
@@ -2294,7 +4054,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-04-24T18:25:37.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:25:37 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillsNoProjections.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:25:37 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillsNoProjections.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "20010",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "20010",
+                    "kMDItemPhysicalSize": "20480"
+                }
             },
             "BillsProjections.json": {
                 "relPath": "target_dirs/rbc_mock_data/BillsProjections.json",
@@ -2318,7 +4098,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T18:27:37.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:27:37 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "BillsProjections.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:27:37 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "BillsProjections.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "20036",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "20036",
+                    "kMDItemPhysicalSize": "20480"
+                }
             },
             "IssueChart.json": {
                 "relPath": "target_dirs/rbc_mock_data/IssueChart.json",
@@ -2342,7 +4142,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T19:12:02.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 19:12:02 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "IssueChart.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 19:12:02 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "IssueChart.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "4970",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "4970",
+                    "kMDItemPhysicalSize": "8192"
+                }
             },
             "IssueMotes.json": {
                 "relPath": "target_dirs/rbc_mock_data/IssueMotes.json",
@@ -2366,7 +4186,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "IssueMotes.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "IssueMotes.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "859",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "859",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "IssueTable.json": {
                 "relPath": "target_dirs/rbc_mock_data/IssueTable.json",
@@ -2390,7 +4230,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T19:23:58.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 19:23:58 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "IssueTable.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 19:23:58 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "IssueTable.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "1084",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "1084",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "IssueTrend.json": {
                 "relPath": "target_dirs/rbc_mock_data/IssueTrend.json",
@@ -2414,7 +4274,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T18:57:36.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:57:36 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "IssueTrend.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:57:36 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "IssueTrend.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "4464",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "4464",
+                    "kMDItemPhysicalSize": "8192"
+                }
             },
             "Issues.json": {
                 "relPath": "target_dirs/rbc_mock_data/Issues.json",
@@ -2438,7 +4318,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "Issues.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "Issues.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "1598",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "1598",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "J_branch_contract.json": {
                 "relPath": "target_dirs/rbc_mock_data/J_branch_contract.json",
@@ -2462,7 +4362,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "J_branch_contract.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "J_branch_contract.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "162026",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "162026",
+                    "kMDItemPhysicalSize": "163840"
+                }
             },
             "OpenIssue.json": {
                 "relPath": "target_dirs/rbc_mock_data/OpenIssue.json",
@@ -2486,7 +4406,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "OpenIssue.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "OpenIssue.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "2332",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "2332",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "api_d3_analysis.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_d3_analysis.json",
@@ -2510,7 +4450,27 @@
                     "ctime": "2017-05-25T22:31:10.000Z",
                     "birthtime": "2017-03-30T20:28:27.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-30 20:28:27 +0000",
+                    "kMDItemContentModificationDate": "2017-03-30 20:28:27 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_d3_analysis.json",
+                    "kMDItemFSContentChangeDate": "2017-03-30 20:28:27 +0000",
+                    "kMDItemFSCreationDate": "2017-03-30 20:28:27 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_d3_analysis.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "1757",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "1757",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "api_d3_point_names.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_d3_point_names.json",
@@ -2534,7 +4494,27 @@
                     "ctime": "2017-05-25T22:31:10.000Z",
                     "birthtime": "2017-03-23T16:49:05.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-23 16:49:05 +0000",
+                    "kMDItemContentModificationDate": "2017-03-23 16:49:05 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_d3_point_names.json",
+                    "kMDItemFSContentChangeDate": "2017-03-23 16:49:05 +0000",
+                    "kMDItemFSCreationDate": "2017-03-23 16:49:05 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_d3_point_names.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "8151",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "8151",
+                    "kMDItemPhysicalSize": "8192"
+                }
             },
             "api_d3chart_points.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_d3chart_points.json",
@@ -2558,7 +4538,27 @@
                     "ctime": "2017-05-25T22:31:10.000Z",
                     "birthtime": "2017-04-21T20:54:59.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-21 20:54:59 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 01:20:22 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_d3chart_points.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 01:20:22 +0000",
+                    "kMDItemFSCreationDate": "2017-04-21 20:54:59 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_d3chart_points.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "26077",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "26077",
+                    "kMDItemPhysicalSize": "28672"
+                }
             },
             "api_d3chart_points.json.big": {
                 "relPath": "target_dirs/rbc_mock_data/api_d3chart_points.json.big",
@@ -2582,7 +4582,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-03-17T19:14:28.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 19:14:28 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 19:14:28 +0000",
+                    "kMDItemContentType": "dyn.ah62d4rv4ge80e4ph",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_d3chart_points.json.big",
+                    "kMDItemFSContentChangeDate": "2017-03-17 19:14:28 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 19:14:28 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_d3chart_points.json.big",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "25315132",
+                    "kMDItemKind": "Document",
+                    "kMDItemLogicalSize": "25315132",
+                    "kMDItemPhysicalSize": "25317376"
+                }
             },
             "api_data_bills.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_data_bills.json",
@@ -2606,7 +4626,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-04-24T18:07:28.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 18:07:28 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_data_bills.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 18:07:28 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_data_bills.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "9804",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "9804",
+                    "kMDItemPhysicalSize": "12288"
+                }
             },
             "api_data_branches.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_data_branches.json",
@@ -2630,7 +4670,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_data_branches.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_data_branches.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "58384",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "58384",
+                    "kMDItemPhysicalSize": "61440"
+                }
             },
             "api_data_emcore_connector.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_data_emcore_connector.json",
@@ -2654,7 +4714,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-05-15T15:39:19.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-05-15 15:39:19 +0000",
+                    "kMDItemContentModificationDate": "2017-05-15 15:39:19 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_data_emcore_connector.json",
+                    "kMDItemFSContentChangeDate": "2017-05-15 15:39:19 +0000",
+                    "kMDItemFSCreationDate": "2017-05-15 15:39:19 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_data_emcore_connector.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "14816",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "14816",
+                    "kMDItemPhysicalSize": "16384"
+                }
             },
             "api_data_issues_chart.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_data_issues_chart.json",
@@ -2678,7 +4758,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_data_issues_chart.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_data_issues_chart.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "5810",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "5810",
+                    "kMDItemPhysicalSize": "8192"
+                }
             },
             "api_data_issues_table.json": {
                 "relPath": "target_dirs/rbc_mock_data/api_data_issues_table.json",
@@ -2702,7 +4802,27 @@
                     "ctime": "2017-05-25T22:31:11.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "api_data_issues_table.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "api_data_issues_table.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "977",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "977",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "categoryStats.json": {
                 "relPath": "target_dirs/rbc_mock_data/categoryStats.json",
@@ -2726,7 +4846,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-04-19 22:28:46 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "categoryStats.json",
+                    "kMDItemFSContentChangeDate": "2017-04-19 22:28:46 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "categoryStats.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "2493",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "2493",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "mock_1.json": {
                 "relPath": "target_dirs/rbc_mock_data/mock_1.json",
@@ -2750,7 +4890,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T16:26:20.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 16:26:20 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "mock_1.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 16:26:20 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "mock_1.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "2394",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "2394",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "mock_2.json": {
                 "relPath": "target_dirs/rbc_mock_data/mock_2.json",
@@ -2774,7 +4934,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-04-24T16:27:19.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-04-24 16:27:19 +0000",
+                    "kMDItemContentModificationDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "mock_2.json",
+                    "kMDItemFSContentChangeDate": "2017-04-26 14:25:13 +0000",
+                    "kMDItemFSCreationDate": "2017-04-24 16:27:19 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "mock_2.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "1385",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "1385",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "mock_3.json": {
                 "relPath": "target_dirs/rbc_mock_data/mock_3.json",
@@ -2842,7 +5022,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T19:14:17.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 19:14:17 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 19:14:17 +0000",
+                    "kMDItemContentType": "public.json",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "notes.json",
+                    "kMDItemFSContentChangeDate": "2017-03-17 19:14:17 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 19:14:17 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "notes.json",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "374",
+                    "kMDItemKind": "JSON",
+                    "kMDItemLogicalSize": "374",
+                    "kMDItemPhysicalSize": "4096"
+                }
             },
             "users_mock_data.js": {
                 "relPath": "target_dirs/rbc_mock_data/users_mock_data.js",
@@ -2866,7 +5066,27 @@
                     "ctime": "2017-05-25T22:31:12.000Z",
                     "birthtime": "2017-03-17T01:08:57.000Z"
                 },
-                "meta": null
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemContentCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentModificationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemContentType": "com.netscape.javascript-source",
+                    "kMDItemDateAdded": "2017-05-25 22:31:10 +0000",
+                    "kMDItemDisplayName": "users_mock_data.js",
+                    "kMDItemFSContentChangeDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSCreationDate": "2017-03-17 01:08:57 +0000",
+                    "kMDItemFSFinderFlags": "0",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "0",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "users_mock_data.js",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "456",
+                    "kMDItemKind": "JavaScript script",
+                    "kMDItemLogicalSize": "456",
+                    "kMDItemPhysicalSize": "4096"
+                }
             }
         }
     },
