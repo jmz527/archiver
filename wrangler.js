@@ -1,27 +1,30 @@
-const path = require('path');
-const mainUtil = require("./util/main_util.js");
-const mapUtil = require("./util/mapper_util.js");
+const path = require(`path`)
+const mainUtil = require(`./util/main_util.js`)
+const mapUtil = require(`./util/mapper_util.js`)
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
-var mapPath, map, thisPath, stats, mdStats;
-	mapPath = process.argv[2] || './data/map.json';
-	map = mainUtil.readFile(mapPath);
-
-	// console.log(mapPath);
-	// console.log(map);
-
+var mapPath, mapName, map, thisPath, stats, mdStats
+	mapPath = process.argv[2] || `./data/map.json`
+	mapName = path.basename(mapPath)
+	map = mainUtil.readFile(mapPath)
 
 // mother function
 function wranglerInit(map) {
 	let newMap = { rootDir: map.rootDir, data: null, meta: map.meta };
 
+	console.log(`//==================================//`)
+	console.log(`Hello! Data wrangling process initiated! ^_^`)
+	console.log(`Now traversing the "${mapPath}" directory.`)
+	console.log(`//==================================//`)
+
+
 	mainLoop(map.rootDir, map.data, (data) => { // console.log(data)
-
+		// drape the new data with original meta
 		newMap.data = data
-
-		mainUtil.writeFile([__dirname, 'data'], 'deep_map', 'json', newMap);
+		// write it to a new json file
+		mainUtil.writeFile([__dirname, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
 
 	})
 
@@ -30,27 +33,19 @@ function wranglerInit(map) {
 
 function mainLoop(thisDir, tree, callback) {
 	// If dirs prop, files prop both exist, and both are not null
-	if (tree.hasOwnProperty('dirs') && tree['dirs'] != null && tree.hasOwnProperty('files') && tree['files'] != null) {
+	if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] != null && tree.hasOwnProperty(`files`) && tree[`files`] != null) {
 		// resolve multiple promises
-		Promise.all([dirLoop(thisDir, tree), fileLoop(thisDir, tree)]).then(() => { // console.log('ALL PROMISE SUCCESS!!!')
-
-			callback(tree)
-
-		})
-	// If 
-	} else if (tree.hasOwnProperty('dirs') && tree['dirs'] != null && (!tree.hasOwnProperty('files') || tree['files'] == null)) {
-
+		Promise.all([dirLoop(thisDir, tree), fileLoop(thisDir, tree)]).then(() => { callback(tree) })
+	// If dirs, but no files
+	} else if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] != null && (!tree.hasOwnProperty(`files`) || tree[`files`] == null)) {
+		// pipe arr of dirs returned from dirLoop to callback
 		callback(dirLoop(thisDir, tree))
-
-	} else if (tree.hasOwnProperty('files') && tree['files'] != null && (!tree.hasOwnProperty('dirs') || tree['dirs'] == null)) {
-
+	// If files, but no dirs
+	} else if (tree.hasOwnProperty(`files`) && tree[`files`] != null && (!tree.hasOwnProperty(`dirs`) || tree[`dirs`] == null)) {
+		// pipe file promises from fileLoop straight to callback
 		callback(fileLoop(thisDir, tree))
-
-	} else {
-
-		console.log(`ERROR: UNMAPPED DIR`)
-
-	}
+	// If else, something went wrong
+	} else { console.log(`ERROR: UNMAPPED DIR`) }
 
 }
 
@@ -75,7 +70,7 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 
 	return new Promise((success, err) => {
 		// create a filesStats obj in dir
-		dirObj['fileStats'] = {};
+		dirObj[`fileStats`] = {};
 
 		for (var i = 0; i < dirObj.files.length; i++) {
 			// local vars
@@ -93,13 +88,13 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 				mapUtil.spawnMDLS(thisPath, (metaData) => {
 					// then add metadata to the new fileStats dict
 					dirObj.fileStats[fileName].meta = metaData
-
+					// resolve inner promise
 					resolve(dirObj)
 				})
 
 			})
 			mdStats.then((dirObj) => {
-				// If it's the last file, resolve outer promise
+				// If it`s the last file, resolve outer promise
 				if (i == dirObj.files.length) { success(dirObj) }
 
 			})

@@ -1,0 +1,235 @@
+{
+    "rootDir": "/Users/jamesrutledge/Desktop/trailers",
+    "data": {
+        "dirs": {
+            "Fincher": {
+                "dirs": null,
+                "files": [
+                    "The Girl with the Dragon Tattoo.mov",
+                    "The Social Network.mov"
+                ],
+                "fileStats": {
+                    "The Girl with the Dragon Tattoo.mov": {
+                        "relPath": "/Users/jamesrutledge/Desktop/trailers/Fincher/The Girl with the Dragon Tattoo.mov",
+                        "stats": {
+                            "dev": 16777220,
+                            "mode": 33188,
+                            "nlink": 1,
+                            "uid": 501,
+                            "gid": 20,
+                            "rdev": 0,
+                            "blksize": 4096,
+                            "ino": 47418260,
+                            "size": 158066069,
+                            "blocks": 308728,
+                            "atimeMs": 1502513895000,
+                            "mtimeMs": 1359195502000,
+                            "ctimeMs": 1495951011000,
+                            "birthtimeMs": 1359195497000,
+                            "atime": "2017-08-12T04:58:15.000Z",
+                            "mtime": "2013-01-26T10:18:22.000Z",
+                            "ctime": "2017-05-28T05:56:51.000Z",
+                            "birthtime": "2013-01-26T10:18:17.000Z"
+                        },
+                        "meta": null
+                    },
+                    "The Social Network.mov": {
+                        "relPath": "/Users/jamesrutledge/Desktop/trailers/Fincher/The Social Network.mov",
+                        "stats": {
+                            "dev": 16777220,
+                            "mode": 33188,
+                            "nlink": 1,
+                            "uid": 501,
+                            "gid": 20,
+                            "rdev": 0,
+                            "blksize": 4096,
+                            "ino": 47418262,
+                            "size": 99116658,
+                            "blocks": 193592,
+                            "atimeMs": 1502398838000,
+                            "mtimeMs": 1356519959000,
+                            "ctimeMs": 1502398838000,
+                            "birthtimeMs": 1356519955000,
+                            "atime": "2017-08-10T21:00:38.000Z",
+                            "mtime": "2012-12-26T11:05:59.000Z",
+                            "ctime": "2017-08-10T21:00:38.000Z",
+                            "birthtime": "2012-12-26T11:05:55.000Z"
+                        },
+                        "meta": null
+                    }
+                }
+            }
+        },
+        "files": [
+            "Hesher.mov",
+            "Much Ado About Nothing.mov",
+            "Star Trek Into Darkness.mov",
+            "The Great Gatsby.mov",
+            "Upstream Color.mov"
+        ],
+        "fileStats": {
+            "Hesher.mov": {
+                "relPath": "/Users/jamesrutledge/Desktop/trailers/Hesher.mov",
+                "stats": {
+                    "dev": 16777220,
+                    "mode": 33188,
+                    "nlink": 1,
+                    "uid": 501,
+                    "gid": 20,
+                    "rdev": 0,
+                    "blksize": 4096,
+                    "ino": 47418256,
+                    "size": 76704087,
+                    "blocks": 149816,
+                    "atimeMs": 1502513895000,
+                    "mtimeMs": 1359193918000,
+                    "ctimeMs": 1495951008000,
+                    "birthtimeMs": 1359193916000,
+                    "atime": "2017-08-12T04:58:15.000Z",
+                    "mtime": "2013-01-26T09:51:58.000Z",
+                    "ctime": "2017-05-28T05:56:48.000Z",
+                    "birthtime": "2013-01-26T09:51:56.000Z"
+                },
+                "meta": null
+            },
+            "Much Ado About Nothing.mov": {
+                "relPath": "/Users/jamesrutledge/Desktop/trailers/Much Ado About Nothing.mov",
+                "stats": {
+                    "dev": 16777220,
+                    "mode": 33188,
+                    "nlink": 1,
+                    "uid": 501,
+                    "gid": 20,
+                    "rdev": 0,
+                    "blksize": 4096,
+                    "ino": 47418258,
+                    "size": 67861632,
+                    "blocks": 132544,
+                    "atimeMs": 1502513895000,
+                    "mtimeMs": 1367787976000,
+                    "ctimeMs": 1495951008000,
+                    "birthtimeMs": 1367787973000,
+                    "atime": "2017-08-12T04:58:15.000Z",
+                    "mtime": "2013-05-05T21:06:16.000Z",
+                    "ctime": "2017-05-28T05:56:48.000Z",
+                    "birthtime": "2013-05-05T21:06:13.000Z"
+                },
+                "meta": null
+            },
+            "Star Trek Into Darkness.mov": {
+                "relPath": "/Users/jamesrutledge/Desktop/trailers/Star Trek Into Darkness.mov",
+                "stats": {
+                    "dev": 16777220,
+                    "mode": 33188,
+                    "nlink": 1,
+                    "uid": 501,
+                    "gid": 20,
+                    "rdev": 0,
+                    "blksize": 4096,
+                    "ino": 47418259,
+                    "size": 101645079,
+                    "blocks": 198528,
+                    "atimeMs": 1502513895000,
+                    "mtimeMs": 1364167306000,
+                    "ctimeMs": 1495951009000,
+                    "birthtimeMs": 1364167302000,
+                    "atime": "2017-08-12T04:58:15.000Z",
+                    "mtime": "2013-03-24T23:21:46.000Z",
+                    "ctime": "2017-05-28T05:56:49.000Z",
+                    "birthtime": "2013-03-24T23:21:42.000Z"
+                },
+                "meta": null
+            },
+            "The Great Gatsby.mov": {
+                "relPath": "/Users/jamesrutledge/Desktop/trailers/The Great Gatsby.mov",
+                "stats": {
+                    "dev": 16777220,
+                    "mode": 33188,
+                    "nlink": 1,
+                    "uid": 501,
+                    "gid": 20,
+                    "rdev": 0,
+                    "blksize": 4096,
+                    "ino": 47418261,
+                    "size": 105508008,
+                    "blocks": 206072,
+                    "atimeMs": 1502398646000,
+                    "mtimeMs": 1356519501000,
+                    "ctimeMs": 1502398646000,
+                    "birthtimeMs": 1356519493000,
+                    "atime": "2017-08-10T20:57:26.000Z",
+                    "mtime": "2012-12-26T10:58:21.000Z",
+                    "ctime": "2017-08-10T20:57:26.000Z",
+                    "birthtime": "2012-12-26T10:58:13.000Z"
+                },
+                "meta": {
+                    "_kMDItemOwnerUserID": "501",
+                    "kMDItemAudioBitRate": "132",
+                    "kMDItemAudioChannelCount": "2",
+                    "kMDItemComment": "Encoded and delivered by apple.com/trailers/",
+                    "kMDItemContentCreationDate": "2012-12-26 10:58:13 +0000",
+                    "kMDItemContentModificationDate": "2012-12-26 10:58:21 +0000",
+                    "kMDItemContentType": "com.apple.quicktime-movie",
+                    "kMDItemCopyright": "© 2013 Warner Bros. Pictures. All Rights Reserved",
+                    "kMDItemDateAdded": "2017-08-12 04:58:14 +0000",
+                    "kMDItemDescription": "In theaters 2013",
+                    "kMDItemDisplayName": "The Great Gatsby",
+                    "kMDItemDurationSeconds": "149.315982649316",
+                    "kMDItemFSContentChangeDate": "2012-12-26 10:58:21 +0000",
+                    "kMDItemFSCreationDate": "2012-12-26 10:58:13 +0000",
+                    "kMDItemFSCreatorCode": "TVOD",
+                    "kMDItemFSFinderFlags": "16",
+                    "kMDItemFSInvisible": "0",
+                    "kMDItemFSIsExtensionHidden": "1",
+                    "kMDItemFSLabel": "0",
+                    "kMDItemFSName": "The Great Gatsby.mov",
+                    "kMDItemFSOwnerGroupID": "20",
+                    "kMDItemFSOwnerUserID": "501",
+                    "kMDItemFSSize": "105508008",
+                    "kMDItemFSTypeCode": "MooV",
+                    "kMDItemKind": "QuickTime movie",
+                    "kMDItemLastUsedDate": "2017-08-10 20:57:26 +0000",
+                    "kMDItemLogicalSize": "105508008",
+                    "kMDItemPhysicalSize": "105508864",
+                    "kMDItemPixelHeight": "544",
+                    "kMDItemPixelWidth": "1280",
+                    "kMDItemProfileName": "HD (1-1-1)",
+                    "kMDItemStreamable": "0",
+                    "kMDItemTitle": "The Great Gatsby",
+                    "kMDItemTotalBitRate": "5647",
+                    "kMDItemUseCount": "2",
+                    "kMDItemVideoBitRate": "5515"
+                }
+            },
+            "Upstream Color.mov": {
+                "relPath": "/Users/jamesrutledge/Desktop/trailers/Upstream Color.mov",
+                "stats": {
+                    "dev": 16777220,
+                    "mode": 33188,
+                    "nlink": 1,
+                    "uid": 501,
+                    "gid": 20,
+                    "rdev": 0,
+                    "blksize": 4096,
+                    "ino": 47418263,
+                    "size": 90286765,
+                    "blocks": 176344,
+                    "atimeMs": 1502517463000,
+                    "mtimeMs": 1359192956000,
+                    "ctimeMs": 1495951013000,
+                    "birthtimeMs": 1359192953000,
+                    "atime": "2017-08-12T05:57:43.000Z",
+                    "mtime": "2013-01-26T09:35:56.000Z",
+                    "ctime": "2017-05-28T05:56:53.000Z",
+                    "birthtime": "2013-01-26T09:35:53.000Z"
+                },
+                "meta": null
+            }
+        }
+    },
+    "meta": {
+        "fileCount": 7,
+        "dirCount": 1,
+        "depth": 2
+    }
+}
