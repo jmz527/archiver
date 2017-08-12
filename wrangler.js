@@ -39,13 +39,17 @@ function mainLoop(thisDir, tree, callback) {
 	// If dirs, but no files
 	} else if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] != null && (!tree.hasOwnProperty(`files`) || tree[`files`] == null)) {
 		// pipe arr of dirs returned from dirLoop to callback
-		callback(dirLoop(thisDir, tree))
+		Promise.all(dirLoop(thisDir, tree)).then((dirArr) => { callback(dirArr) })
 	// If files, but no dirs
 	} else if (tree.hasOwnProperty(`files`) && tree[`files`] != null && (!tree.hasOwnProperty(`dirs`) || tree[`dirs`] == null)) {
 		// pipe file promises from fileLoop straight to callback
-		callback(fileLoop(thisDir, tree))
+		Promise.all([fileLoop(thisDir, tree)]).then((files) => { callback(files) })
+	// If neither files nor dirs
+	} else if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] == null && tree.hasOwnProperty(`files`) && tree[`files`] == null) {
+		// Check if it's the root dir
+		if (thisDir==map.rootDir) console.log(`ERROR: EMPTY ROOT DIR (${thisDir})`)
 	// If else, something went wrong
-	} else { console.log(`ERROR: UNMAPPED DIR`) }
+	} else { console.log(`ERROR: UNMAPPED DIR (${thisDir})`) }
 
 }
 
