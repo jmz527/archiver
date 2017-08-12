@@ -21,10 +21,18 @@ function wranglerInit(map) {
 
 
 	mainLoop(map.rootDir, map.data, (data) => { // console.log(data)
-		// drape the new data with original meta
-		newMap.data = data
-		// write it to a new json file
-		mainUtil.writeFile([__dirname, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
+
+		// TEMP SOLUTION: setTimeout allows for wrangling the data within small dir heirarchies
+		// But this will not work for the deeper directories
+
+		setTimeout(() => {
+			// drape the new data with original meta
+			newMap.data = data
+			// write it to a new json file
+			mainUtil.writeFile([__dirname, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
+
+		}, 1000)
+
 
 	})
 
