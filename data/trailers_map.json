@@ -1,20 +1,26 @@
 {
     "rootDir": "/Users/jamesrutledge/Desktop/trailers",
     "data": {
-        "dirs": null,
+        "dirs": {
+            "Fincher": {
+                "dirs": null,
+                "files": [
+                    "The Girl with the Dragon Tattoo.mov",
+                    "The Social Network.mov"
+                ]
+            }
+        },
         "files": [
             "Hesher.mov",
             "Much Ado About Nothing.mov",
             "Star Trek Into Darkness.mov",
-            "The Girl with the Dragon Tattoo.mov",
             "The Great Gatsby.mov",
-            "The Social Network.mov",
             "Upstream Color.mov"
         ]
     },
     "meta": {
         "fileCount": 7,
-        "dirCount": 0,
-        "depth": 1
+        "dirCount": 1,
+        "depth": 2
     }
 }

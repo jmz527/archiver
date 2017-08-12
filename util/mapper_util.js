@@ -49,28 +49,33 @@ function trimStrings(line) { // console.log(line);
 
 // SPAWNS MDLS - OBTAINS META DATA - GENERATES JSON FILE
 //--------------------------------------------------------------------------//
-function spawnMDLS(pathStr, fileName) {
-	console.log(`//==================================//`);
-	console.log(`Hello! Spawn mdls process initiated! ^_^`);
+function spawnMDLS(pathStr, callback) {
+	// console.log(`//==================================//`);
+	// console.log(`Hello! Spawn mdls process initiated! ^_^`);
 
-	let mdls, dataStr, newArr, newObj = {};
-		mdls = cp.spawn('mdls', [pathStr]);
+	let mdls, dataStr, newArr, newObj = {}
+		mdls = cp.spawn('mdls', [pathStr])
 		mdls.stdout.on('data', (data) => {
-			dataStr = data.toString("utf-8");
-			newArr = dataStr.split(/\r\n|\r|\n/g);
-			newArr = newArr.map(mapSplit);
-			newArr = newArr.filter(filterOutBad);
-			newArr = newArr.map(trimStrings);
-			newArr.forEach((line) => {
-				newObj[line.key] = line.val;
-			});
+			dataStr = data.toString("utf-8")
+			newArr = dataStr.split(/\r\n|\r|\n/g)
+			newArr = newArr.map(mapSplit)
+			newArr = newArr.filter(filterOutBad)
+			newArr = newArr.map(trimStrings)
+			newArr.forEach((line) => { newObj[line.key] = line.val })
 
-			mainUtil.writeFile([__dirname, '..', 'data'], fileName, 'json', newObj);
+			// mainUtil.writeFile([__dirname, '..', 'data'], fileName, 'json', newObj);
 		})
-		mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
-		mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
+		mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`))
+		mdls.on('close', (code) => {
 
-	console.log(`//==================================//`);
+			// console.log(`child process exited with code ${code}`)
+			// console.log(`newObj: `)
+			// console.log(newObj)
+
+			callback(newObj)
+		});
+
+	// console.log(`//==================================//`);
 }
 
 //----------------------------------//

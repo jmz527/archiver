@@ -1,11 +1,11 @@
-var path = require('path');
-var mainUtil = require("./util/main_util.js");
+const path = require('path');
+const mainUtil = require("./util/main_util.js");
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
 var rootDir, finalDir, mapper;
-	rootDir = process.argv[2];
+	rootDir = process.argv[2] || './target_dirs/testing_grounds';
 	// rootDir = path.join("./target_dirs/", process.argv[2] || '/testing_grounds');
 	resultingFile = path.join("./data/", process.argv[3] || 'map');
 	mapper = { // This is the main object that we will be using

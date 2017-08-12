@@ -1,0 +1,1186 @@
+{
+    "rootDir": "/Users/jamesrutledge/Desktop/archiver",
+    "data": {
+        "dirs": {
+            ".git": {
+                "dirs": {
+                    "hooks": {
+                        "dirs": null,
+                        "files": [
+                            "applypatch-msg.sample",
+                            "commit-msg.sample",
+                            "post-update.sample",
+                            "pre-applypatch.sample",
+                            "pre-commit.sample",
+                            "pre-push.sample",
+                            "pre-rebase.sample",
+                            "pre-receive.sample",
+                            "prepare-commit-msg.sample",
+                            "update.sample"
+                        ]
+                    },
+                    "info": {
+                        "dirs": null,
+                        "files": [
+                            "exclude"
+                        ]
+                    },
+                    "logs": {
+                        "dirs": {
+                            "refs": {
+                                "dirs": {
+                                    "heads": {
+                                        "dirs": null,
+                                        "files": [
+                                            "master"
+                                        ]
+                                    },
+                                    "remotes": {
+                                        "dirs": {
+                                            "origin": {
+                                                "dirs": null,
+                                                "files": [
+                                                    "HEAD",
+                                                    "master"
+                                                ]
+                                            }
+                                        },
+                                        "files": null
+                                    }
+                                },
+                                "files": [
+                                    "stash"
+                                ]
+                            }
+                        },
+                        "files": [
+                            "HEAD"
+                        ]
+                    },
+                    "objects": {
+                        "dirs": {
+                            "10": {
+                                "dirs": null,
+                                "files": [
+                                    "5a4287f4f8c193f19cb90e44c93f6f47343cc4"
+                                ]
+                            },
+                            "11": {
+                                "dirs": null,
+                                "files": [
+                                    "0041d7806e643eaf2ac625db4fcfdc213df6de"
+                                ]
+                            },
+                            "12": {
+                                "dirs": null,
+                                "files": [
+                                    "46a73453d6813bb67c73234e4ea7a78a97bcf4",
+                                    "60a7fa2832500d466c27f93a8e5cc5f9ff0544",
+                                    "f367afd04579ae8ae5ccc35ed0523c80b898f2"
+                                ]
+                            },
+                            "13": {
+                                "dirs": null,
+                                "files": [
+                                    "58885966bb1cca8a70d6f0a32ea1ec6e22d4ac",
+                                    "ec5b3ad57a97257a3ba18c09cffda775a92958"
+                                ]
+                            },
+                            "14": {
+                                "dirs": null,
+                                "files": [
+                                    "2e94e9ba05f917e33a3c9d8a77071590714ead",
+                                    "bc3d0c896bc0e15bff6bfd99d468a4ffa94ae1"
+                                ]
+                            },
+                            "17": {
+                                "dirs": null,
+                                "files": [
+                                    "557a4870459831614d28680e10b11b1e6c646e",
+                                    "a15a3392235fbff0e437de15534732b074293d"
+                                ]
+                            },
+                            "20": {
+                                "dirs": null,
+                                "files": [
+                                    "cb062ce78692a5aa3c2e848e03fcce36d8a6ac",
+                                    "e27f6571b1fd7d99fdd691c1263f52f84c58f6"
+                                ]
+                            },
+                            "22": {
+                                "dirs": null,
+                                "files": [
+                                    "b8fe34302a9ebac80aebdaf8adf9ee650d8a67"
+                                ]
+                            },
+                            "26": {
+                                "dirs": null,
+                                "files": [
+                                    "520cb17e2723ca7f8da493746d9e726163cd0a"
+                                ]
+                            },
+                            "27": {
+                                "dirs": null,
+                                "files": [
+                                    "8eae64af0437f992aa948aa86c420ada61419e"
+                                ]
+                            },
+                            "28": {
+                                "dirs": null,
+                                "files": [
+                                    "c715a1fac878a0a4b7b44d23b69928eacb2f59"
+                                ]
+                            },
+                            "31": {
+                                "dirs": null,
+                                "files": [
+                                    "0691e8ce6eabf8991bf3948c5262e940ef4d53"
+                                ]
+                            },
+                            "34": {
+                                "dirs": null,
+                                "files": [
+                                    "3b7e7002ce03bc4c18af811d836d4f57fd18f1"
+                                ]
+                            },
+                            "35": {
+                                "dirs": null,
+                                "files": [
+                                    "bb48ca155aee7ce228ce9d5dae5ad421fcd4cb"
+                                ]
+                            },
+                            "36": {
+                                "dirs": null,
+                                "files": [
+                                    "c5078affae7aee4daa16c277ec5fba353bdf2f"
+                                ]
+                            },
+                            "38": {
+                                "dirs": null,
+                                "files": [
+                                    "5462ce7bef1a6eed0abe87e730142b6bb51c44"
+                                ]
+                            },
+                            "42": {
+                                "dirs": null,
+                                "files": [
+                                    "e1da56b0dc87e3a9e462d13b04720d17fd434a"
+                                ]
+                            },
+                            "44": {
+                                "dirs": null,
+                                "files": [
+                                    "239c729b7290f0d59cb2253335a5eec4ef2e25"
+                                ]
+                            },
+                            "45": {
+                                "dirs": null,
+                                "files": [
+                                    "d84832fe494dc78dbe308957b9ab6c292c3984"
+                                ]
+                            },
+                            "48": {
+                                "dirs": null,
+                                "files": [
+                                    "68e7d2844cfe5d073106dc9d1b7e8a7a4182bf",
+                                    "8dca96a6249614747665ae9c057feda0b3afde"
+                                ]
+                            },
+                            "51": {
+                                "dirs": null,
+                                "files": [
+                                    "3401d202dd6a136f176dea4c2a3261e8d97d71"
+                                ]
+                            },
+                            "52": {
+                                "dirs": null,
+                                "files": [
+                                    "98dc95a6e3a8ca28e7f139ac862c164fffbd0c",
+                                    "d8854767728ea106313aecbcf4fec2c0025eba"
+                                ]
+                            },
+                            "53": {
+                                "dirs": null,
+                                "files": [
+                                    "1bb5f95cbf2cb091b91a77cd2ac04686277881",
+                                    "bb539bfac7560f7be971181cc988961584e4cf"
+                                ]
+                            },
+                            "54": {
+                                "dirs": null,
+                                "files": [
+                                    "21ca0c6f341c8d7f0fc7b189d1aed784bb48dc",
+                                    "c72800d4dd1b04225a81d909ce5572a44bdc5d"
+                                ]
+                            },
+                            "55": {
+                                "dirs": null,
+                                "files": [
+                                    "c06b92a06b41cccd0e73c4369f5061e0dea4f8"
+                                ]
+                            },
+                            "57": {
+                                "dirs": null,
+                                "files": [
+                                    "fc035ba87ac110870eb9f703d9b4f621323967"
+                                ]
+                            },
+                            "58": {
+                                "dirs": null,
+                                "files": [
+                                    "12f889cb8f4779ccf01a4c25c7c9cf797fc977",
+                                    "dccf413ac081631de69a645327596ce48a31ab"
+                                ]
+                            },
+                            "62": {
+                                "dirs": null,
+                                "files": [
+                                    "783a67110ec523a7c5b02a0b4a72e6cb0e0a87",
+                                    "7ba2f9b800a2499397bf4a7df15bd431d152e2"
+                                ]
+                            },
+                            "63": {
+                                "dirs": null,
+                                "files": [
+                                    "0c8cc05db2b4b46a3faf0dc422a397d15acd17",
+                                    "48444d61da5d993ec58fc20b5fa898c3982692"
+                                ]
+                            },
+                            "66": {
+                                "dirs": null,
+                                "files": [
+                                    "21b45850c8e8707166fa7925078cd4d46fcd15"
+                                ]
+                            },
+                            "67": {
+                                "dirs": null,
+                                "files": [
+                                    "2c244ea64fa64ec1cb2e9be601cb0d418c31f2"
+                                ]
+                            },
+                            "68": {
+                                "dirs": null,
+                                "files": [
+                                    "68973bd9aeaeb6ce1a045badb19d07d1704b8f",
+                                    "a4efdcddb76566507c376c4bd4d4973b788e4d"
+                                ]
+                            },
+                            "71": {
+                                "dirs": null,
+                                "files": [
+                                    "6347c85e2c7a905820b8c252a84475a5dbf51e"
+                                ]
+                            },
+                            "72": {
+                                "dirs": null,
+                                "files": [
+                                    "87f29bf3d906a8ce5e8d2c366bb17b708ab875"
+                                ]
+                            },
+                            "73": {
+                                "dirs": null,
+                                "files": [
+                                    "015b3e7535bfc6c55c982c1470cdc44ef7ea03",
+                                    "e999c6c4fb50132b2b02c027f2e3cfa2121898"
+                                ]
+                            },
+                            "74": {
+                                "dirs": null,
+                                "files": [
+                                    "8223fb1572204163c447ea7e1e0173c281a546",
+                                    "9d80db9559f3d0dc290a175e2806c6f80d73fc"
+                                ]
+                            },
+                            "79": {
+                                "dirs": null,
+                                "files": [
+                                    "a457278df6e3dba3df3d176adc5eec993f6e52"
+                                ]
+                            },
+                            "80": {
+                                "dirs": null,
+                                "files": [
+                                    "472031b6ad4f9df9dc479bb94e77f3919da9dd",
+                                    "9d949add9484e9c59a5837a0d177feb25d929d"
+                                ]
+                            },
+                            "82": {
+                                "dirs": null,
+                                "files": [
+                                    "99077a7294a964c3977b4d3a2638ef3ab64b5f"
+                                ]
+                            },
+                            "87": {
+                                "dirs": null,
+                                "files": [
+                                    "1bf0f6dbadf742806468c44e278837bba367d3"
+                                ]
+                            },
+                            "88": {
+                                "dirs": null,
+                                "files": [
+                                    "b887caf8666d8d8d40814f71d0e3aeb573f28b"
+                                ]
+                            },
+                            "91": {
+                                "dirs": null,
+                                "files": [
+                                    "3abad098a05065391a3b394cfa7338b1e0e81f"
+                                ]
+                            },
+                            "92": {
+                                "dirs": null,
+                                "files": [
+                                    "318bc2110d6b62e5661ce8295f346052d23968"
+                                ]
+                            },
+                            "96": {
+                                "dirs": null,
+                                "files": [
+                                    "45f8057761df14d7658f44d97e6ee54ba19b00",
+                                    "fd05ead19e5484e92fdcdacfb742bcef0395c5"
+                                ]
+                            },
+                            "97": {
+                                "dirs": null,
+                                "files": [
+                                    "2b929868f2254c00ffd89e655ad93973026912",
+                                    "c2193e87bc949f0da5ff1056b1164f454b8f69"
+                                ]
+                            },
+                            "99": {
+                                "dirs": null,
+                                "files": [
+                                    "8fa0fdca89b8370a99b970082701805325ece3"
+                                ]
+                            },
+                            "02": {
+                                "dirs": null,
+                                "files": [
+                                    "765b2d8b6b4b8f9ae61ea52e68e4b62e40cbeb"
+                                ]
+                            },
+                            "05": {
+                                "dirs": null,
+                                "files": [
+                                    "27ad5a88b6d6a6c86516c47ba67378554152d4",
+                                    "318dc43e57b4f16fef2108a59fa1557b17c64e",
+                                    "512f0037a50cf5a69ee2dea5b367a2fa65d509"
+                                ]
+                            },
+                            "07": {
+                                "dirs": null,
+                                "files": [
+                                    "50bbeba8db96028b5d913c4ed7b43dcf72e03b"
+                                ]
+                            },
+                            "09": {
+                                "dirs": null,
+                                "files": [
+                                    "2a424ec9e12aad5c9c72a5dcb226c388bd6897",
+                                    "68b132916cef8dbf1ec2b17f1e5f56f61db066"
+                                ]
+                            },
+                            "0a": {
+                                "dirs": null,
+                                "files": [
+                                    "585250cd114ab66fc9926da68c0960676f3e83",
+                                    "83aa1163439bbe5dee351598b3e6ad879502a2",
+                                    "b02df64c033786007cf44fa1eac8ba87fd27fa"
+                                ]
+                            },
+                            "0c": {
+                                "dirs": null,
+                                "files": [
+                                    "e8a6641cfa2392dee22c096ecf2e9495850c7c",
+                                    "fc7424674d18ea7cf65001d76e9f1e09cc56a2"
+                                ]
+                            },
+                            "0d": {
+                                "dirs": null,
+                                "files": [
+                                    "739e0b3a114de794bc9bf6cbd5ff89142270e4"
+                                ]
+                            },
+                            "1a": {
+                                "dirs": null,
+                                "files": [
+                                    "6147eb4e469e4e4bc2f7ca384f1fd2421ff0c4"
+                                ]
+                            },
+                            "1c": {
+                                "dirs": null,
+                                "files": [
+                                    "be17284e2d7ec7ea96b68d31a1ef4e9d24b411",
+                                    "bfe1d54a752a6f9ee921aeaaeeaa7af78bc6be"
+                                ]
+                            },
+                            "2a": {
+                                "dirs": null,
+                                "files": [
+                                    "06989ae92fa51b8070683c548f5a16993086c6",
+                                    "58331a779d3baceb6e34b4ca1d72e37aecbd1a",
+                                    "a1cda9362b9c7da4edb4d4f2e15dd5e7147016",
+                                    "e59e8cae39431afe042f3d2c8ff15e361e520c",
+                                    "f331c858df74b93537726476de6e4f646e1e29"
+                                ]
+                            },
+                            "2b": {
+                                "dirs": null,
+                                "files": [
+                                    "8e4700198a6c99171c0ba0981abf6f4d6bd97b",
+                                    "91f0e868ae66fdc9c9b7eb63f5c16e6d9cd0ce",
+                                    "cc986d693864b007982984fa91f49fa7ef3590"
+                                ]
+                            },
+                            "2c": {
+                                "dirs": null,
+                                "files": [
+                                    "121454cbfc69b36d824f98bd59d96f4b803934",
+                                    "277cc17eb1a614561909ccf0dddcf955db044c"
+                                ]
+                            },
+                            "2e": {
+                                "dirs": null,
+                                "files": [
+                                    "3e001c2d8ca9b67e5ccdaacecf6000255d2956"
+                                ]
+                            },
+                            "3a": {
+                                "dirs": null,
+                                "files": [
+                                    "72cbc4a722b2d337e72a0a80b9ecf83500c13d",
+                                    "b5f8ea53e3b0fd6a7492fb4ae55a8f16969a6f"
+                                ]
+                            },
+                            "3f": {
+                                "dirs": null,
+                                "files": [
+                                    "4137fa59f47f416cc7c7ed16981c06806865ac",
+                                    "f8bf60fade1f5dcdad8f5caa8a26acfb723934"
+                                ]
+                            },
+                            "4c": {
+                                "dirs": null,
+                                "files": [
+                                    "4ad597aa863c2e717153eac74f76fad7448040",
+                                    "5ff597bd96879695a84fba47dc1a08289fef79"
+                                ]
+                            },
+                            "4d": {
+                                "dirs": null,
+                                "files": [
+                                    "8d6f69679e47cfbd929c0bfd173b611c63b616"
+                                ]
+                            },
+                            "4e": {
+                                "dirs": null,
+                                "files": [
+                                    "b1dcfde5b91b8e7bb9b7c6e85fc0b7af76eda3"
+                                ]
+                            },
+                            "5a": {
+                                "dirs": null,
+                                "files": [
+                                    "3432a35df7fcf9573d5358681d86e4bfcddb0a",
+                                    "3729a67ed8372fc863aa3b13bbbee240b98611",
+                                    "d4fd67417a2799185e829134ff2d30f714477c"
+                                ]
+                            },
+                            "5b": {
+                                "dirs": null,
+                                "files": [
+                                    "42a0136499235e92dc5a9afce67726c97a7b29"
+                                ]
+                            },
+                            "5c": {
+                                "dirs": null,
+                                "files": [
+                                    "02d13c637773c6fd7a476e145747ee08da114a",
+                                    "3793915af5bdb6189031d0380edfbc9fb25dc6"
+                                ]
+                            },
+                            "6e": {
+                                "dirs": null,
+                                "files": [
+                                    "436ebf2ed55ea5c1fcc528fd8841af42f8f72e",
+                                    "715a8fc4219f1a6d5959eb66853e050272be08",
+                                    "dc6ed10a861cdef26e14bbed83e037c782db59"
+                                ]
+                            },
+                            "6f": {
+                                "dirs": null,
+                                "files": [
+                                    "0599546e1e6e0df9a29b09b7201774d453c0b9"
+                                ]
+                            },
+                            "7a": {
+                                "dirs": null,
+                                "files": [
+                                    "f1b6902f858d3bd4460065b2888d8a51954be9"
+                                ]
+                            },
+                            "7b": {
+                                "dirs": null,
+                                "files": [
+                                    "0f4a1454578089b86e9bb3caf194d42f031071"
+                                ]
+                            },
+                            "7c": {
+                                "dirs": null,
+                                "files": [
+                                    "cf4f9fad0122cb686f16fd34036fd639d55f2c"
+                                ]
+                            },
+                            "7d": {
+                                "dirs": null,
+                                "files": [
+                                    "ee30b44852aab704eff6bee596e1004a98e9d4"
+                                ]
+                            },
+                            "7e": {
+                                "dirs": null,
+                                "files": [
+                                    "53dc0e483ac9759986559e8a96c43cf949cb15",
+                                    "a1b658826df59379e47f2ef4bd79bd9a633690"
+                                ]
+                            },
+                            "8c": {
+                                "dirs": null,
+                                "files": [
+                                    "b44b37cec76a171cea8a8837f6ec17d0dac56d"
+                                ]
+                            },
+                            "8d": {
+                                "dirs": null,
+                                "files": [
+                                    "64f7f2b8abb80c86111893a9859688952aebf9"
+                                ]
+                            },
+                            "8e": {
+                                "dirs": null,
+                                "files": [
+                                    "b5f644ec19a1274b77944893e59ebd64673031"
+                                ]
+                            },
+                            "9b": {
+                                "dirs": null,
+                                "files": [
+                                    "5989e57a10c3f83b660c63efeb605a3ec369ed"
+                                ]
+                            },
+                            "9e": {
+                                "dirs": null,
+                                "files": [
+                                    "51044c462a30c397a27c322d20109de81daba4"
+                                ]
+                            },
+                            "9f": {
+                                "dirs": null,
+                                "files": [
+                                    "48c58d4064ac34214faa318eb54422c4a81bad",
+                                    "e5531e2387b6e5393ca7f434b868d5d7939f06"
+                                ]
+                            },
+                            "a0": {
+                                "dirs": null,
+                                "files": [
+                                    "7fa66d97573d00b8bae7505f2e4030be719281"
+                                ]
+                            },
+                            "a2": {
+                                "dirs": null,
+                                "files": [
+                                    "b4c8b006e73ca5f36780cc610ca03f0883b75a"
+                                ]
+                            },
+                            "a3": {
+                                "dirs": null,
+                                "files": [
+                                    "3439edf8c9c74aa1ae0783ff99c3c923579fce"
+                                ]
+                            },
+                            "a5": {
+                                "dirs": null,
+                                "files": [
+                                    "a79757b98a6df152edce660a25ed2047e6df47"
+                                ]
+                            },
+                            "a7": {
+                                "dirs": null,
+                                "files": [
+                                    "9dd3f8f92f4a5cb773cb1083c3588035010f96"
+                                ]
+                            },
+                            "a9": {
+                                "dirs": null,
+                                "files": [
+                                    "11e7d34248b959a74f988b6f829d9811b0f5c6",
+                                    "6875ee5eea8f0e2a258ed586ae0a142521c482"
+                                ]
+                            },
+                            "ab": {
+                                "dirs": null,
+                                "files": [
+                                    "2c406c9afb8a9186a4a80e134f40260e8d6740"
+                                ]
+                            },
+                            "ac": {
+                                "dirs": null,
+                                "files": [
+                                    "61e819cf52a706a8121dbe20fed5389f2f7382"
+                                ]
+                            },
+                            "ae": {
+                                "dirs": null,
+                                "files": [
+                                    "65e36393c0b4946490434a7c9bfbfae02b403f",
+                                    "fdc1e15098425d34fb3a9fef87d9ac14f204d0"
+                                ]
+                            },
+                            "b0": {
+                                "dirs": null,
+                                "files": [
+                                    "fa0975bd8fcc62f1aa7afcc723d93884b99d74"
+                                ]
+                            },
+                            "b1": {
+                                "dirs": null,
+                                "files": [
+                                    "b95b1aa9d6f5156026f27f14c1e3f9c9a18a72",
+                                    "e4cf8416f11f5d60d92db79472fa94112885b2"
+                                ]
+                            },
+                            "b2": {
+                                "dirs": null,
+                                "files": [
+                                    "4bfc867dc4c6f6272aa7181407ebdfb8460a7f",
+                                    "9abb00aed8e592ffc687dd95a32bf5695b34cd"
+                                ]
+                            },
+                            "b6": {
+                                "dirs": null,
+                                "files": [
+                                    "9dee8b1a99350a581b9e2d42d0b1eede7172f6",
+                                    "ff6588bc27f7b343cde427e04aee613ad4107c"
+                                ]
+                            },
+                            "ba": {
+                                "dirs": null,
+                                "files": [
+                                    "28decbe2c321ba36de540cfd90b9b31a913c6e",
+                                    "a641031875fdefe8997223d28194c76b3a0c76"
+                                ]
+                            },
+                            "bc": {
+                                "dirs": null,
+                                "files": [
+                                    "438d98f9f303cca0e0d84a12d346098fe4cf42"
+                                ]
+                            },
+                            "bd": {
+                                "dirs": null,
+                                "files": [
+                                    "47dd21dfc03e9c7b95c50f3386d2e5679f4de1"
+                                ]
+                            },
+                            "be": {
+                                "dirs": null,
+                                "files": [
+                                    "91b260af6a6ebb41e8354306b432c72d516749",
+                                    "ca7fee4f59c74030785a2131cf20ff6f31247f"
+                                ]
+                            },
+                            "c6": {
+                                "dirs": null,
+                                "files": [
+                                    "b299f1fdf19116c3bc0d48efff05e40c05b1e6"
+                                ]
+                            },
+                            "c7": {
+                                "dirs": null,
+                                "files": [
+                                    "ea9cf0b97bf24060ff19694529cd8e314232c2"
+                                ]
+                            },
+                            "c8": {
+                                "dirs": null,
+                                "files": [
+                                    "92f5a40254a4330e973c26400435c84d43de94"
+                                ]
+                            },
+                            "c9": {
+                                "dirs": null,
+                                "files": [
+                                    "9fdc19dd8dd5f67afbbbb6914cae268e6ab90c"
+                                ]
+                            },
+                            "ca": {
+                                "dirs": null,
+                                "files": [
+                                    "7c4924322931ff3e438705d3a90c54f2751117"
+                                ]
+                            },
+                            "cc": {
+                                "dirs": null,
+                                "files": [
+                                    "50404d75cc420098b7c0e41662676af3d6d13e",
+                                    "52b4dbc21d70e014321d12d8e8e18c597773bc",
+                                    "b80d04bfdf700935ea64d903e7b002f1cbc2c0"
+                                ]
+                            },
+                            "cd": {
+                                "dirs": null,
+                                "files": [
+                                    "34599bc57cc594f79d76cf477e6334400af030",
+                                    "59fd94938e4f3b06c65a41787cd3c29e51948b",
+                                    "761baf7b82feb6e16b43cb6d6f82bedd39e4c9",
+                                    "9edc0eea6483f95950a972745ec77dc23df82c"
+                                ]
+                            },
+                            "ce": {
+                                "dirs": null,
+                                "files": [
+                                    "71899532d51f78adeb3f0b5c71faada565ba7e"
+                                ]
+                            },
+                            "cf": {
+                                "dirs": null,
+                                "files": [
+                                    "2481047eed5f7731be51faa9ee4d9753c7bb95"
+                                ]
+                            },
+                            "d0": {
+                                "dirs": null,
+                                "files": [
+                                    "85e5d8bd7d76435ac3d7ffd3e58c285e3a0aff",
+                                    "d8283282d5a85b307f709c8892d0de742a1acf"
+                                ]
+                            },
+                            "d1": {
+                                "dirs": null,
+                                "files": [
+                                    "042c9ea7b61431bf3c3aa8eef71713ec459ff6",
+                                    "cbe25a8a6a3e52ef13b727c2ae7aeab7bdc471"
+                                ]
+                            },
+                            "d2": {
+                                "dirs": null,
+                                "files": [
+                                    "55061c6559e8dfaf0c9cbd30500d5a5d6011f8"
+                                ]
+                            },
+                            "d3": {
+                                "dirs": null,
+                                "files": [
+                                    "a0efe37332eb2d3547db855385631ce4603605"
+                                ]
+                            },
+                            "d5": {
+                                "dirs": null,
+                                "files": [
+                                    "41639ea2dee4a025cc182d0eb7d6e3f8740424"
+                                ]
+                            },
+                            "d8": {
+                                "dirs": null,
+                                "files": [
+                                    "12fcb7ca96722cbf2d81208f2b446c32688e27"
+                                ]
+                            },
+                            "da": {
+                                "dirs": null,
+                                "files": [
+                                    "499e8f35f7199073bd328bea046eda8c5f891f",
+                                    "61c658b62db9a04ff52f5551cf14fc4e54252b"
+                                ]
+                            },
+                            "dc": {
+                                "dirs": null,
+                                "files": [
+                                    "8b3e4cb77675416886a5e854c22a986c1fea17"
+                                ]
+                            },
+                            "dd": {
+                                "dirs": null,
+                                "files": [
+                                    "0aae0bbabd99e99850c247e52831109b976d7f"
+                                ]
+                            },
+                            "de": {
+                                "dirs": null,
+                                "files": [
+                                    "5b21e043a5a94307a04a25b0bcd5d7065ac0b9"
+                                ]
+                            },
+                            "e0": {
+                                "dirs": null,
+                                "files": [
+                                    "b175b17a886921a9030581622457ae0ff623d5"
+                                ]
+                            },
+                            "e1": {
+                                "dirs": null,
+                                "files": [
+                                    "54a28f27197d266b1eb8db554fde322d61ed53",
+                                    "e93a06fdff7fabf93093632a62e618b5fa2ed5"
+                                ]
+                            },
+                            "e6": {
+                                "dirs": null,
+                                "files": [
+                                    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                                    "b96e53a2659af18cee06ad87bbe8b5fa006637",
+                                    "d29b43732dd780cccb39a729db4a171fccd890"
+                                ]
+                            },
+                            "ea": {
+                                "dirs": null,
+                                "files": [
+                                    "a426d2587e7115ffff95e60c819e2fe0de42ba",
+                                    "b98befd4f9bce0860ffbed2139f5ac5e2bce20"
+                                ]
+                            },
+                            "eb": {
+                                "dirs": null,
+                                "files": [
+                                    "5a26f08b5d568cf903fb442d4338ef1443efdd",
+                                    "bbf50c5dc4e6b9b9edd7f4e7251bbe953ad6b4",
+                                    "cb5c9d4f796d2fd0950bfda11a8e3d00fef6aa"
+                                ]
+                            },
+                            "ec": {
+                                "dirs": null,
+                                "files": [
+                                    "23910723472f74b7b839b3c5ad39bc9079c513"
+                                ]
+                            },
+                            "ed": {
+                                "dirs": null,
+                                "files": [
+                                    "95fb9e176e8e8665b4ea428c80b9996243a11e"
+                                ]
+                            },
+                            "ef": {
+                                "dirs": null,
+                                "files": [
+                                    "4c3f1183952d612d2359bbb9a7160bff5848ff",
+                                    "c341c9b867bc5e785d1fdb9aefaed0e4aa81ae"
+                                ]
+                            },
+                            "f0": {
+                                "dirs": null,
+                                "files": [
+                                    "82f1a733ecc895c0187605a469dd1ff528526e"
+                                ]
+                            },
+                            "f4": {
+                                "dirs": null,
+                                "files": [
+                                    "adf170e87cd114107fa44d1728a1bf9f7be86e"
+                                ]
+                            },
+                            "f6": {
+                                "dirs": null,
+                                "files": [
+                                    "4440bc8145a4d784674158cbb7a5160aefc501",
+                                    "a6c318daf58618cb3b38dab3a438d589fd7e07"
+                                ]
+                            },
+                            "f7": {
+                                "dirs": null,
+                                "files": [
+                                    "3d4988b9c27186bb2bade9da78b16906e2036e"
+                                ]
+                            },
+                            "f9": {
+                                "dirs": null,
+                                "files": [
+                                    "8f7a81d426e900d76b95ae090dfd91b0936580"
+                                ]
+                            },
+                            "fa": {
+                                "dirs": null,
+                                "files": [
+                                    "7f04638406ee5cb8ca5a4275725c6c4fd8a3e6"
+                                ]
+                            },
+                            "fc": {
+                                "dirs": null,
+                                "files": [
+                                    "078b94f3094ca8e62a20f35359987ce735857b",
+                                    "8a3734a462d30acff10e641fe6fe8145403756",
+                                    "a73af000bc958da140af3eda4089b7db8fd0e4"
+                                ]
+                            },
+                            "fd": {
+                                "dirs": null,
+                                "files": [
+                                    "eb11de29158dee0ef7ec2fb50b1c62b3097f7a"
+                                ]
+                            },
+                            "info": {
+                                "dirs": null,
+                                "files": null
+                            },
+                            "pack": {
+                                "dirs": null,
+                                "files": [
+                                    "pack-7271eaa37f1c7e3aba5ebee2c4329fdec137fa39.idx",
+                                    "pack-7271eaa37f1c7e3aba5ebee2c4329fdec137fa39.pack"
+                                ]
+                            }
+                        },
+                        "files": null
+                    },
+                    "refs": {
+                        "dirs": {
+                            "heads": {
+                                "dirs": null,
+                                "files": [
+                                    "master"
+                                ]
+                            },
+                            "remotes": {
+                                "dirs": {
+                                    "origin": {
+                                        "dirs": null,
+                                        "files": [
+                                            "HEAD",
+                                            "master"
+                                        ]
+                                    }
+                                },
+                                "files": null
+                            },
+                            "tags": {
+                                "dirs": null,
+                                "files": null
+                            }
+                        },
+                        "files": [
+                            "stash"
+                        ]
+                    }
+                },
+                "files": [
+                    "COMMIT_EDITMSG",
+                    "FETCH_HEAD",
+                    "HEAD",
+                    "ORIG_HEAD",
+                    "config",
+                    "description",
+                    "index",
+                    "packed-refs"
+                ]
+            },
+            "data": {
+                "dirs": null,
+                "files": [
+                    "Hesher.json",
+                    "Superstar.json",
+                    "go_meta.json",
+                    "map.json",
+                    "rbc_map.json",
+                    "trailers_map.json"
+                ]
+            },
+            "script": {
+                "dirs": null,
+                "files": [
+                    "convert_mdls_to_json.js",
+                    "mapper.js",
+                    "node_play.js",
+                    "reformmer.js"
+                ]
+            },
+            "target_dirs": {
+                "dirs": {
+                    "rbc_mock_data": {
+                        "dirs": {
+                            "api_data_contracts": {
+                                "dirs": null,
+                                "files": [
+                                    "emcore_asset.json",
+                                    "emcore_assets.json",
+                                    "emcore_auth.json",
+                                    "emcore_connector.json",
+                                    "rbc_assets.json",
+                                    "rbc_assets_points_with_uom.json",
+                                    "rbc_assets_timeseries.json",
+                                    "rbc_assets_types_uimetadata.json",
+                                    "rbc_auth.json",
+                                    "rbc_bills.json",
+                                    "rbc_branches.json",
+                                    "rbc_category_stats.json",
+                                    "rbc_filters_definitions.json",
+                                    "rbc_issues.json",
+                                    "rbc_issues_notes.json",
+                                    "rbc_issues_trend.json"
+                                ]
+                            },
+                            "broken_data": {
+                                "dirs": null,
+                                "files": [
+                                    "BillsDataContract.json",
+                                    "BillsData_Example_1.json",
+                                    "billsAfterConfig.json"
+                                ]
+                            },
+                            "fake_data_sets": {
+                                "dirs": null,
+                                "files": [
+                                    "1293-BranchHomeBills.json",
+                                    "1293-CategoryStats.json",
+                                    "1293-IssueTrend.json",
+                                    "1293-OpenIssuesTable.json",
+                                    "1672-BranchHomeBills.json",
+                                    "1672-CategoryStats.json",
+                                    "1672-IssueTrend.json",
+                                    "1672-OpenIssuesTable.json",
+                                    "3092-BranchHomeBills.json",
+                                    "3092-CategoryStats.json",
+                                    "3092-IssueTrend.json",
+                                    "3092-OpenIssuesTable.json",
+                                    "3562-BranchHomeBills.json",
+                                    "3562-CategoryStats.json",
+                                    "3562-IssueTrend.json",
+                                    "3562-OpenIssuesTable.json",
+                                    "8003-BranchHomeBills.json",
+                                    "8003-CategoryStats.json",
+                                    "8003-IssueTrend.json",
+                                    "8003-OpenIssuesTable.json",
+                                    "9154-BranchHomeBills.json",
+                                    "9154-CategoryStats.json",
+                                    "9154-IssueTrend.json",
+                                    "9154-OpenIssuesTable.json",
+                                    "9160-BranchHomeBills.json",
+                                    "9160-CategoryStats.json",
+                                    "9160-IssueTrend.json",
+                                    "9160-OpenIssuesTable.json",
+                                    "9892-BranchHomeBills.json",
+                                    "9892-CategoryStats.json",
+                                    "9892-IssueTrend.json",
+                                    "9892-OpenIssuesTable.json",
+                                    "A374-BranchHomeBills.json",
+                                    "A374-CategoryStats.json",
+                                    "A374-IssueTrend.json",
+                                    "A374-OpenIssuesTable.json",
+                                    "A450-BranchHomeBills.json",
+                                    "A450-CategoryStats.json",
+                                    "A450-IssueTrend.json",
+                                    "A450-OpenIssuesTable.json",
+                                    "Fake-BranchList.json"
+                                ]
+                            },
+                            "gen_templates": {
+                                "dirs": null,
+                                "files": [
+                                    "agency_tree_json_gen.js"
+                                ]
+                            },
+                            "original_init_state": {
+                                "dirs": null,
+                                "files": [
+                                    "asset_init.js",
+                                    "asset_init.json",
+                                    "branch_init.js",
+                                    "branch_init.json",
+                                    "nav_init.js",
+                                    "nav_init.json",
+                                    "plot_init.js",
+                                    "plot_init.json",
+                                    "schedule_init.js",
+                                    "schedule_init.json",
+                                    "state_init.json",
+                                    "user_init.js",
+                                    "user_init.json"
+                                ]
+                            },
+                            "scheduler_sets": {
+                                "dirs": null,
+                                "files": [
+                                    "emcore_lightswitch_connector.json",
+                                    "empty_connector.json",
+                                    "lights_populated.json",
+                                    "lights_schedule.json",
+                                    "schedule_contract.json",
+                                    "schedule_populated.json",
+                                    "thermostats_populated.json",
+                                    "thermostats_schedule.json",
+                                    "updated_connector.json"
+                                ]
+                            }
+                        },
+                        "files": [
+                            "AssetsDropdown.json",
+                            "BillResponse.json",
+                            "BillsData.json",
+                            "BillsDataBase.json",
+                            "BillsDataContract_AllBaseBills.json",
+                            "BillsNoProjections.json",
+                            "BillsProjections.json",
+                            "IssueChart.json",
+                            "IssueMotes.json",
+                            "IssueTable.json",
+                            "IssueTrend.json",
+                            "Issues.json",
+                            "J_branch_contract.json",
+                            "OpenIssue.json",
+                            "api_d3_analysis.json",
+                            "api_d3_point_names.json",
+                            "api_d3chart_points.json",
+                            "api_d3chart_points.json.big",
+                            "api_data_bills.json",
+                            "api_data_branches.json",
+                            "api_data_emcore_connector.json",
+                            "api_data_issues_chart.json",
+                            "api_data_issues_table.json",
+                            "categoryStats.json",
+                            "mock_1.json",
+                            "mock_2.json",
+                            "mock_3.json",
+                            "notes.json",
+                            "users_mock_data.js"
+                        ]
+                    },
+                    "testing_grounds": {
+                        "dirs": {
+                            "sub_folder": {
+                                "dirs": null,
+                                "files": [
+                                    "second.json",
+                                    "third.json"
+                                ]
+                            }
+                        },
+                        "files": [
+                            "first.json"
+                        ]
+                    }
+                },
+                "files": []
+            },
+            "util": {
+                "dirs": null,
+                "files": [
+                    "main_util.js",
+                    "mapper_util.js"
+                ]
+            }
+        },
+        "files": [
+            ".gitignore",
+            "README.md",
+            "index.js",
+            "mapper.js",
+            "package.json",
+            "wrangler.js"
+        ]
+    },
+    "meta": {
+        "fileCount": 363,
+        "dirCount": 161,
+        "depth": 12
+    }
+}

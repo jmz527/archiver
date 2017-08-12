@@ -31,16 +31,6 @@ node mapper.js path/to/directory
 
 -- DIRECTORY REFORMATION
 
--- DATABASE SETUP
-
--- ARCHIVING PROCEDURES
-
--- SEARCH, SORT, FILTERING DB QUERIES
-
--- CATEGORIES & TAGGING
-
--- PLAY COMMAND
-
 
 
 # Directory Tree:

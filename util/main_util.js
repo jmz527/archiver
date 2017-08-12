@@ -66,7 +66,12 @@ function getDirs(dir) {
 
 // Reads a JSON file
 function readFile(pathArr, fileName, ext) {
-  filePath = filePather(pathArr, fileName, ext);
+
+  if (fileName!=null && ext!=null) {
+    filePath = filePather(pathArr, fileName, ext)
+  } else {
+    filePath = path.join(pathArr)
+  }
 
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }

@@ -1,0 +1,91 @@
+{
+    "dirs": {
+        "empty_folder": {
+            "dirs": null,
+            "files": null
+        },
+        "sub_folder": {
+            "dirs": null,
+            "files": [
+                "second.json",
+                "third.json"
+            ],
+            "fileStats": {
+                "second.json": {
+                    "relPath": "target_dirs/testing_grounds/sub_folder/second.json",
+                    "stats": {
+                        "dev": 16777220,
+                        "mode": 33188,
+                        "nlink": 1,
+                        "uid": 501,
+                        "gid": 20,
+                        "rdev": 0,
+                        "blksize": 4096,
+                        "ino": 47328167,
+                        "size": 408,
+                        "blocks": 8,
+                        "atimeMs": 1502160108000,
+                        "mtimeMs": 1495750603000,
+                        "ctimeMs": 1495750603000,
+                        "birthtimeMs": 1495750603000,
+                        "atime": "2017-08-08T02:41:48.000Z",
+                        "mtime": "2017-05-25T22:16:43.000Z",
+                        "ctime": "2017-05-25T22:16:43.000Z",
+                        "birthtime": "2017-05-25T22:16:43.000Z"
+                    }
+                },
+                "third.json": {
+                    "relPath": "target_dirs/testing_grounds/sub_folder/third.json",
+                    "stats": {
+                        "dev": 16777220,
+                        "mode": 33188,
+                        "nlink": 1,
+                        "uid": 501,
+                        "gid": 20,
+                        "rdev": 0,
+                        "blksize": 4096,
+                        "ino": 47328168,
+                        "size": 408,
+                        "blocks": 8,
+                        "atimeMs": 1502160108000,
+                        "mtimeMs": 1495750603000,
+                        "ctimeMs": 1495750603000,
+                        "birthtimeMs": 1495750603000,
+                        "atime": "2017-08-08T02:41:48.000Z",
+                        "mtime": "2017-05-25T22:16:43.000Z",
+                        "ctime": "2017-05-25T22:16:43.000Z",
+                        "birthtime": "2017-05-25T22:16:43.000Z"
+                    }
+                }
+            }
+        }
+    },
+    "files": [
+        "first.json"
+    ],
+    "fileStats": {
+        "first.json": {
+            "relPath": "target_dirs/testing_grounds/first.json",
+            "stats": {
+                "dev": 16777220,
+                "mode": 33188,
+                "nlink": 1,
+                "uid": 501,
+                "gid": 20,
+                "rdev": 0,
+                "blksize": 4096,
+                "ino": 47328165,
+                "size": 293,
+                "blocks": 8,
+                "atimeMs": 1502160108000,
+                "mtimeMs": 1495750603000,
+                "ctimeMs": 1495750603000,
+                "birthtimeMs": 1495750603000,
+                "atime": "2017-08-08T02:41:48.000Z",
+                "mtime": "2017-05-25T22:16:43.000Z",
+                "ctime": "2017-05-25T22:16:43.000Z",
+                "birthtime": "2017-05-25T22:16:43.000Z"
+            }
+        }
+    }
+}
