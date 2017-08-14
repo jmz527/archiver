@@ -34,3 +34,8 @@ node mapper.js path/to/directory
 
 
 # Directory Tree:
+
+# Notes:
+
+
+https://stackoverflow.com/questions/11787016/nodejs-file-statistics
