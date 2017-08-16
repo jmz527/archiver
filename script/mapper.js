@@ -100,7 +100,7 @@ mapper.data = mapperInit(mapper);
 
 // console.log(mapper)
 
-mainUtil.writeFile([`..`], resultingFile, `json`, mapper);
+mainUtil.writeFile([`.`], resultingFile, `json`, mapper);
 
 console.log(`//==================================//`);
 
