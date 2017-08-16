@@ -70,7 +70,7 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 		// combine the parent directory path and file name to get the relative path for the file
 		thisPath = path.join(parentDir, fileName) // console.log(thisPath)
 
-		cp.exec(`mv -v ${thisPath} ${destination}/.`, (err, stdout, stderr) => {
+		cp.exec(`mv -v ${path.join(thisPath)} ${destination}/.`, (err, stdout, stderr) => {
 			if (err) throw err
 
 			console.log(stdout);
