@@ -1,22 +1,22 @@
-var mainUtil = require("../util/main_util.js");
-var data = require('../data/metadata.json');
+var mainUtil = require(`./util/main_util.js`)
+var data = require(`./data/metadata.json`)
 
-let newArr, newObj, lineArr, key, val;
-	newArr = data.dataStr.split(/\r\n|\r|\n/g);
+let newArr, newObj, lineArr, key, val
+	newArr = data.dataStr.split(/\r\n|\r|\n/g)
 	newObj = {};
 
 
 newArr = newArr.map((line) => {
-	lineArr = line.split(/(=)/g);
-	key = lineArr[0];
-	val = lineArr[2];
+	lineArr = line.split(/(=)/g)
+	key = lineArr[0]
+	val = lineArr[2]
 
-	// console.log({key, val});
-	return {key, val};
+	// console.log({key, val})
+	return {key, val}
 });
 
 
-newArr = newArr.filter(filterLine);
+newArr = newArr.filter(filterLine)
 
 
 function filterLine(line) {
@@ -50,4 +50,4 @@ newArr.forEach((line) => {
 // console.log(newArr);
 // console.log(newObj);
 
-mainUtil.writeFile([__dirname, '..', 'data'], 'converted_metadata', 'json', newObj);
+mainUtil.writeFile([__dirname, `..`, `data`], `converted_metadata`, `json`, newObj);

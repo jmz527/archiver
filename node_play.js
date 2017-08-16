@@ -1,11 +1,11 @@
-var mainUtil = require("../util/main_util.js");
+var mainUtil = require(`./util/main_util.js`)
 
 // NODE MODULES:
-const path = require('path');
-const fs = require('fs');
-const os = require('os');
-const cp = require('child_process');
-const buff = require('buffer');
+const path = require(`path`)
+const fs = require(`fs`)
+const os = require(`os`)
+const cp = require(`child_process`)
+const buff = require(`buffer`)
 
 
 console.log(`//==================================//`);
