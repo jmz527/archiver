@@ -1,12 +1,12 @@
 const path = require(`path`)
-const mainUtil = require(`./util/main_util.js`)
-const mapUtil = require(`./util/mapper_util.js`)
+const mainUtil = require(`../util/main_util.js`)
+const mapUtil = require(`../util/mapper_util.js`)
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
 var mapPath, mapName, map, thisPath, stats, mdStats
-	mapPath = process.argv[2] || `./data/map.json`
+	mapPath = process.argv[2] || `../data/map.json`
 	mapName = path.basename(mapPath)
 	map = mainUtil.readFile(mapPath)
 
@@ -29,7 +29,7 @@ function wranglerInit(map) {
 			// drape the new data with original meta
 			newMap.data = data
 			// write it to a new json file
-			mainUtil.writeFile([__dirname, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
+			mainUtil.writeFile([`..`, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
 
 			console.log(`//==================================//`);
 
