@@ -27,15 +27,22 @@ node mapper.js path/to/directory
 
 # TODOS:
 
--- FILE ANALYSIS & TRACKING
-
--- DIRECTORY REFORMATION
-
+-- Need a bash script that will take out all spaces within file names
+-- Need to account for srt files
 
 
 # Directory Tree:
 
 # Notes:
 
+-- FILE ANALYSIS & TRACKING
+
+	Mapper creates initial json map of file directory
+	Wrangler gets the absolute path, the file system stats and the metadata of files
+
+
+-- DIRECTORY REFORMATION
+
+	Reformmer moves all files within the directory tree to a given flat folder
 
 https://stackoverflow.com/questions/11787016/nodejs-file-statistics

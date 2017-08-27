@@ -16,11 +16,11 @@ var mapPath, map, rootPath, destination, thisPath
 function reformInit(map) {
 	// let newMap = { rootDir: map.rootDir, data: null, meta: map.meta };
 
-	console.log(`//==================================//`)
-	console.log(`Hello! Reformation process initiated! ^_^`)
-	console.log(`Now moving all files in the "${mapPath}" directory to the "${destination}" directory`)
-	console.log(`This may take a while`)
-	console.log(`//==================================//`)
+	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
+	console.log(`\x1b[35m%s\x1b[0m`, `Hello! Reformation process initiated! ^_^`)
+	console.log(`\x1b[35m%s\x1b[0m`, `Now moving all files in the "${mapPath}" directory to the "${destination}" directory`)
+	console.log(`\x1b[35m%s\x1b[0m`, `This may take a while`)
+	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
 
 	mainLoop(map.rootDir, map.data)
 }
@@ -47,9 +47,9 @@ function mainLoop(thisDir, tree) {
 	// If neither files nor dirs
 	} else if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] == null && tree.hasOwnProperty(`files`) && tree[`files`] == null) {
 		// Check if it's the root dir
-		if (thisDir==map.rootDir) console.log(`ERROR: EMPTY ROOT DIR (${thisDir})`)
+		if (thisDir==map.rootDir) console.log(`\x1b[31m%s\x1b[0m`, `ERROR: EMPTY ROOT DIR (${thisDir})`)
 	// If else, something went wrong
-	} else { console.log(`ERROR: UNMAPPED DIR (${thisDir})`) }
+	} else { console.log(`\x1b[31m%s\x1b[0m`, `ERROR: UNMAPPED DIR (${thisDir})`) }
 
 }
 

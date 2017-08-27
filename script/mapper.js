@@ -28,10 +28,10 @@ function mapperInit(Mapr) {
 
 	if (dirExists && (hasFiles || hasDirs)) {
 
-		console.log(`//==================================//`);
-		console.log(`Hello! Mapper process initiated! ^_^`);
-		console.log(`Now mapping the "${Mapr.rootDir}" directory.`);
-		console.log(`//==================================//`);
+		console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`);
+		console.log(`\x1b[35m%s\x1b[0m`, `Hello! Mapper process initiated! ^_^`);
+		console.log(`\x1b[35m%s\x1b[0m`, `Now mapping the "${Mapr.rootDir}" directory.`);
+		console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`);
 
 		Mapr.data = {};
 		Mapr.meta.depth++;
@@ -39,7 +39,7 @@ function mapperInit(Mapr) {
 
 	} else if (!hasFiles && !hasDirs) {
 
-		console.log(`ERROR: the "${Mapr.rootDir}" directory is empty.`);
+		console.log(`\x1b[31m%s\x1b[0m`, `ERROR: the "${Mapr.rootDir}" directory is empty.`);
 	}
 
 	return Mapr;

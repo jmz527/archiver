@@ -14,10 +14,10 @@ var mapPath, mapName, map, thisPath, stats, mdStats
 function wranglerInit(map) {
 	let newMap = { rootDir: map.rootDir, data: null, meta: map.meta };
 
-	console.log(`//==================================//`)
-	console.log(`Hello! Data wrangling process initiated! ^_^`)
-	console.log(`Now traversing the "${mapPath}" directory.`)
-	console.log(`//==================================//`)
+	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
+	console.log(`\x1b[35m%s\x1b[0m`, `Hello! Data wrangling process initiated! ^_^`)
+	console.log(`\x1b[35m%s\x1b[0m`, `Now traversing the "${mapPath}" directory.`)
+	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
 
 
 	mainLoop(map.rootDir, map.data, (data) => { // console.log(data)
@@ -57,9 +57,9 @@ function mainLoop(thisDir, tree, callback) {
 	// If neither files nor dirs
 	} else if (tree.hasOwnProperty(`dirs`) && tree[`dirs`] == null && tree.hasOwnProperty(`files`) && tree[`files`] == null) {
 		// Check if it's the root dir
-		if (thisDir==map.rootDir) console.log(`ERROR: EMPTY ROOT DIR (${thisDir})`)
+		if (thisDir==map.rootDir) console.log(`\x1b[31m%s\x1b[0m`, `ERROR: EMPTY ROOT DIR (${thisDir})`)
 	// If else, something went wrong
-	} else { console.log(`ERROR: UNMAPPED DIR (${thisDir})`) }
+	} else { console.log(`\x1b[31m%s\x1b[0m`, `ERROR: UNMAPPED DIR (${thisDir})`) }
 
 }
 
@@ -94,7 +94,7 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 			// get the file system stats
 			stats = mapUtil.fsStats(thisPath)
 			// add these to the new fileStats dict
-			dirObj.fileStats[fileName] = { relPath: thisPath, stats, meta: null }
+			dirObj.fileStats[fileName] = { absPath: thisPath, stats, meta: null }
 
 			// now create a promise for the metadata
 			mdStats = new Promise((resolve, reject) => {
