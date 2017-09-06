@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PWD="$( pwd )"
 
-rm -r "${DIR}"/data
+rm -r "${PWD}"/data
 
-mkdir -v "${DIR}"/data
+mkdir -v "${PWD}"/data
