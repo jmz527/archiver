@@ -1,18 +1,7 @@
-// NODE MODULES:
-const fs = require('fs');
-const path = require('path');
 const cp = require('child_process');
-const buff = require('buffer');
+// const buff = require('buffer');
 
 const file_util = require(`./file_util.js`)
-
-
-
-// FS STATS - OBTAINS BASIC DATA - GENERATES JSON FILE
-//--------------------------------------------------------------------------//
-function fsStats(pathStr) {
-	return fs.statSync(pathStr);
-}
 
 
 // HELPER FUNCTIONS
@@ -78,6 +67,5 @@ function spawnMDLS(pathStr, callback) {
 	// console.log(`//==================================//`);
 }
 
-//----------------------------------//
-exports.fsStats = fsStats;
+
 exports.spawnMDLS = spawnMDLS;

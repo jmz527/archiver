@@ -90,7 +90,7 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 			// combine the parent directory path and file name to get the relative path for the file
 			thisPath = path.join(parentDir, fileName)
 			// get the file system stats
-			stats = map_util.fsStats(thisPath)
+			stats = file_util.methods.getFileStats(thisPath)
 			// add these to the new fileStats dict
 			dirObj.fileStats[fileName] = { absPath: thisPath, stats, meta: null }
 

@@ -7,7 +7,7 @@ const methods = (function() {
 	return {
 
 		pather:function(dirPath, fileName, ext) {
-		// The pather function takes up to three arguements (at minimum two),
+		// The pather function takes up to three arguements (two minimum),
 		// an array or string that represents the directory path, a string for the file's name,
 		// and an optional file extension. Returns a proper path.
 
@@ -63,6 +63,11 @@ const methods = (function() {
 					.filter(function(file) {
 						return fs.statSync(path.join(dirPath, file)).isDirectory();
 					});
+		},
+
+		// fs.statSync, returns data about the file
+		getFileStats:function(thisPath) {
+			return fs.statSync(thisPath);
 		},
 
 		// HTML SAVE
