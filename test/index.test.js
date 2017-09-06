@@ -1,7 +1,7 @@
 const chai = require(`chai`)
 
 const file_util = require(`../util/file_util`)
-const mapper_util = require(`../util/mapper_util`)
+const map_util = require(`../util/mapper_util`)
 
 
 // FILE UTIL LIBRARY
@@ -61,7 +61,7 @@ describe(`Mapper utility library`, () => {
 
 	it(`spawnMDLS method returns properly`, () => {
 
-		mapper_util.spawnMDLS(`test/index.test.js`, (data) => {
+		map_util.methods.spawnMDLS(`test/index.test.js`, (data) => {
 
 			chai.expect(data).to.be.a(`object`)
 			chai.expect(data).to.include({kMDItemFSName: `index.test.js`});

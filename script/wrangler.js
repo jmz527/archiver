@@ -97,7 +97,7 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 			// now create a promise for the metadata
 			mdStats = new Promise((resolve, reject) => {
 				// spawn the metadata list command, and resolve promise within callback
-				map_util.spawnMDLS(thisPath, (metaData) => {
+				map_util.methods.spawnMDLS(thisPath, (metaData) => {
 					// then add metadata to the new fileStats dict
 					dirObj.fileStats[fileName].meta = metaData
 					// resolve inner promise

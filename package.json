@@ -4,6 +4,10 @@
   "description": "command line file management tool",
   "main": "index.js",
   "scripts": {
+    "map": "./bin/.map_all.bash",
+    "wrangle": "./bin/.wrangle_all.bash",
+    "reform": "./bin/.reform_all.bash",
+    "purge": "./bin/.purge_all.bash",
     "test": "node_modules/.bin/mocha"
   },
   "repository": {

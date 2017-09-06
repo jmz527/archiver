@@ -102,6 +102,3 @@ mapper.data = mapperInit(mapper);
 file_util.methods.saveJSON(resultingFile, mapper);
 
 // console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`);
-
-
-

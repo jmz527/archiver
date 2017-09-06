@@ -29,3 +29,13 @@ function myWriter(rootDir) {
 // 	console.log(`Now wrangling the "${mappedDir}" directory.`)
 // 	cp.spawn(`node wrangler.js ${mappedDir}`)
 // }
+
+
+
+// const methods = (function() {
+// 	return {
+
+// 	}
+// }());
+
+// exports.methods = methods;
