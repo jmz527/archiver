@@ -1,0 +1,156 @@
+{
+    "rootDir": "/Users/jamesrutledge/Desktop/target_dirs/rbc_mock_data",
+    "data": {
+        "dirs": {
+            "api_data_contracts": {
+                "dirs": null,
+                "files": [
+                    "emcore_asset.json",
+                    "emcore_assets.json",
+                    "emcore_auth.json",
+                    "emcore_connector.json",
+                    "rbc_assets.json",
+                    "rbc_assets_points_with_uom.json",
+                    "rbc_assets_timeseries.json",
+                    "rbc_assets_types_uimetadata.json",
+                    "rbc_auth.json",
+                    "rbc_bills.json",
+                    "rbc_branches.json",
+                    "rbc_category_stats.json",
+                    "rbc_filters_definitions.json",
+                    "rbc_issues.json",
+                    "rbc_issues_notes.json",
+                    "rbc_issues_trend.json"
+                ]
+            },
+            "broken_data": {
+                "dirs": null,
+                "files": [
+                    "BillsDataContract.json",
+                    "BillsData_Example_1.json",
+                    "billsAfterConfig.json"
+                ]
+            },
+            "fake_data_sets": {
+                "dirs": null,
+                "files": [
+                    "1293-BranchHomeBills.json",
+                    "1293-CategoryStats.json",
+                    "1293-IssueTrend.json",
+                    "1293-OpenIssuesTable.json",
+                    "1672-BranchHomeBills.json",
+                    "1672-CategoryStats.json",
+                    "1672-IssueTrend.json",
+                    "1672-OpenIssuesTable.json",
+                    "3092-BranchHomeBills.json",
+                    "3092-CategoryStats.json",
+                    "3092-IssueTrend.json",
+                    "3092-OpenIssuesTable.json",
+                    "3562-BranchHomeBills.json",
+                    "3562-CategoryStats.json",
+                    "3562-IssueTrend.json",
+                    "3562-OpenIssuesTable.json",
+                    "8003-BranchHomeBills.json",
+                    "8003-CategoryStats.json",
+                    "8003-IssueTrend.json",
+                    "8003-OpenIssuesTable.json",
+                    "9154-BranchHomeBills.json",
+                    "9154-CategoryStats.json",
+                    "9154-IssueTrend.json",
+                    "9154-OpenIssuesTable.json",
+                    "9160-BranchHomeBills.json",
+                    "9160-CategoryStats.json",
+                    "9160-IssueTrend.json",
+                    "9160-OpenIssuesTable.json",
+                    "9892-BranchHomeBills.json",
+                    "9892-CategoryStats.json",
+                    "9892-IssueTrend.json",
+                    "9892-OpenIssuesTable.json",
+                    "A374-BranchHomeBills.json",
+                    "A374-CategoryStats.json",
+                    "A374-IssueTrend.json",
+                    "A374-OpenIssuesTable.json",
+                    "A450-BranchHomeBills.json",
+                    "A450-CategoryStats.json",
+                    "A450-IssueTrend.json",
+                    "A450-OpenIssuesTable.json",
+                    "Fake-BranchList.json"
+                ]
+            },
+            "gen_templates": {
+                "dirs": null,
+                "files": [
+                    "agency_tree_json_gen.js"
+                ]
+            },
+            "original_init_state": {
+                "dirs": null,
+                "files": [
+                    "asset_init.js",
+                    "asset_init.json",
+                    "branch_init.js",
+                    "branch_init.json",
+                    "nav_init.js",
+                    "nav_init.json",
+                    "plot_init.js",
+                    "plot_init.json",
+                    "schedule_init.js",
+                    "schedule_init.json",
+                    "state_init.json",
+                    "user_init.js",
+                    "user_init.json"
+                ]
+            },
+            "scheduler_sets": {
+                "dirs": null,
+                "files": [
+                    "emcore_lightswitch_connector.json",
+                    "empty_connector.json",
+                    "lights_populated.json",
+                    "lights_schedule.json",
+                    "schedule_contract.json",
+                    "schedule_populated.json",
+                    "thermostats_populated.json",
+                    "thermostats_schedule.json",
+                    "updated_connector.json"
+                ]
+            }
+        },
+        "files": [
+            "AssetsDropdown.json",
+            "BillResponse.json",
+            "BillsData.json",
+            "BillsDataBase.json",
+            "BillsDataContract_AllBaseBills.json",
+            "BillsNoProjections.json",
+            "BillsProjections.json",
+            "IssueChart.json",
+            "IssueMotes.json",
+            "IssueTable.json",
+            "IssueTrend.json",
+            "Issues.json",
+            "J_branch_contract.json",
+            "OpenIssue.json",
+            "api_d3_analysis.json",
+            "api_d3_point_names.json",
+            "api_d3chart_points.json",
+            "api_d3chart_points.json.big",
+            "api_data_bills.json",
+            "api_data_branches.json",
+            "api_data_emcore_connector.json",
+            "api_data_issues_chart.json",
+            "api_data_issues_table.json",
+            "categoryStats.json",
+            "mock_1.json",
+            "mock_2.json",
+            "mock_3.json",
+            "notes.json",
+            "users_mock_data.js"
+        ]
+    },
+    "meta": {
+        "fileCount": 112,
+        "dirCount": 6,
+        "depth": 2
+    }
+}
