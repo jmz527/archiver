@@ -4,7 +4,7 @@ const path = require('path');
 const cp = require('child_process');
 const buff = require('buffer');
 
-var mainUtil = require("./main_util.js");
+const file_util = require(`./file_util.js`)
 
 
 
@@ -63,7 +63,7 @@ function spawnMDLS(pathStr, callback) {
 			newArr = newArr.map(trimStrings)
 			newArr.forEach((line) => { newObj[line.key] = line.val })
 
-			// mainUtil.writeFile([__dirname, '..', 'data'], fileName, 'json', newObj);
+			// file_util.methods.saveJSON(file_util.methods.pather([__dirname, '..', 'data'], fileName, 'json'), newObj);
 		})
 		mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`))
 		mdls.on('close', (code) => {

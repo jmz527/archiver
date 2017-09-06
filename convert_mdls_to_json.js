@@ -1,4 +1,4 @@
-var mainUtil = require(`./util/main_util.js`)
+const file_util = require(`./util/file_util.js`)
 var data = require(`./data/metadata.json`)
 
 let newArr, newObj, lineArr, key, val
@@ -50,4 +50,4 @@ newArr.forEach((line) => {
 // console.log(newArr);
 // console.log(newObj);
 
-mainUtil.writeFile([__dirname, `..`, `data`], `converted_metadata`, `json`, newObj);
+file_util.methods.saveJSON(file_util.methods.pather([__dirname, `..`, `data`], `converted_metadata`, `json`), newObj);

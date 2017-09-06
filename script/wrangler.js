@@ -1,14 +1,15 @@
 const path = require(`path`)
-const mainUtil = require(`../util/main_util.js`)
-const mapUtil = require(`../util/mapper_util.js`)
+const file_util = require(`../util/file_util.js`)
+const map_util = require(`../util/mapper_util.js`)
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
-var mapPath, mapName, map, thisPath, stats, mdStats
+var mapPath, mapName, map, destination, thisPath, stats, mdStats
 	mapPath = process.argv[2] || `../data/map.json`
-	mapName = path.basename(mapPath)
-	map = mainUtil.readFile(mapPath)
+	mapName = path.basename(mapPath).split('.')[0]
+	map = file_util.methods.readJSON(mapPath)
+	destination = process.argv[3]
 
 // mother function
 function wranglerInit(map) {
@@ -23,15 +24,12 @@ function wranglerInit(map) {
 	mainLoop(map.rootDir, map.data, (data) => { // console.log(data)
 
 		// TEMP SOLUTION: setTimeout allows for wrangling the data within small dir heirarchies
-		// But this will not work for the deeper directories
 
 		setTimeout(() => {
 			// drape the new data with original meta
 			newMap.data = data
 			// write it to a new json file
-			mainUtil.writeFile([`..`, `data`], `deep_${mapName.split('.')[0]}`, `json`, newMap);
-
-			console.log(`//==================================//`);
+			file_util.methods.saveJSON(file_util.methods.pather(destination, `deep_${mapName}`), newMap);
 
 		}, 1000)
 
@@ -92,14 +90,14 @@ function fileLoop(parentDir, dirObj) { // console.log(`this dir, ${parentDir}, h
 			// combine the parent directory path and file name to get the relative path for the file
 			thisPath = path.join(parentDir, fileName)
 			// get the file system stats
-			stats = mapUtil.fsStats(thisPath)
+			stats = map_util.fsStats(thisPath)
 			// add these to the new fileStats dict
 			dirObj.fileStats[fileName] = { absPath: thisPath, stats, meta: null }
 
 			// now create a promise for the metadata
 			mdStats = new Promise((resolve, reject) => {
 				// spawn the metadata list command, and resolve promise within callback
-				mapUtil.spawnMDLS(thisPath, (metaData) => {
+				map_util.spawnMDLS(thisPath, (metaData) => {
 					// then add metadata to the new fileStats dict
 					dirObj.fileStats[fileName].meta = metaData
 					// resolve inner promise

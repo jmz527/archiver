@@ -1,21 +1,19 @@
 const path = require(`path`)
 const cp = require(`child_process`)
-const mainUtil = require(`../util/main_util.js`)
+const file_util = require(`../util/file_util.js`)
 
 
 // GLOBAL VARIABLES
 //----------------------------------//
 var mapPath, map, rootPath, destination, thisPath
 	mapPath = process.argv[2]
-	map = mainUtil.readFile(mapPath)
+	map = file_util.methods.readJSON(mapPath)
 	rootPath = map.rootDir
 	destination = process.argv[3]
 
 
 // mother function
 function reformInit(map) {
-	// let newMap = { rootDir: map.rootDir, data: null, meta: map.meta };
-
 	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
 	console.log(`\x1b[35m%s\x1b[0m`, `Hello! Reformation process initiated! ^_^`)
 	console.log(`\x1b[35m%s\x1b[0m`, `Now moving all files in the "${mapPath}" directory to the "${destination}" directory`)

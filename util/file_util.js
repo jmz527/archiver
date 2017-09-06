@@ -91,15 +91,13 @@ const methods = (function() {
 
 		// JSON READ
 		// =========================================================== //
-		readJSON:function(thisPath, callback) {
+		readJSON:function(thisPath) {
 		// Reads a json file and returns the object
 		// If file doesn't exist, error.
 
-			if (fs.existsSync(`${thisPath}.json`)) {
+			if (fs.existsSync(thisPath)) {
 
-				let new_json = require(`.${thisPath}.json`);
-
-				callback(new_json);
+				return JSON.parse(fs.readFileSync(thisPath, 'utf8'))
 
 			} else {
 				console.log(`\x1b[31m%s\x1b[0m`, `ERROR: Missing File`);  //red

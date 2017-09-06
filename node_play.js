@@ -1,15 +1,15 @@
-var mainUtil = require(`./util/main_util.js`)
+const file_util = require(`./util/file_util.js`)
 
 // NODE MODULES:
-const path = require(`path`)
-const fs = require(`fs`)
+// const path = require(`path`)
+// const fs = require(`fs`)
 const os = require(`os`)
-const cp = require(`child_process`)
-const buff = require(`buffer`)
+// const cp = require(`child_process`)
+// const buff = require(`buffer`)
 
 
-console.log(`//==================================//`);
-console.log(`Hello! Node Play process initiated! ^_^`);
+console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`);
+console.log(`\x1b[35m%s\x1b[0m`, `Hello! Node Play process initiated! ^_^`);
 
 
 // GLOBAL VARS:
@@ -68,7 +68,8 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // 	console.log(cache[key].Module);
 // }
 
-// console.log(global);
+// console.log(global.process.title);
+// console.log(global.process.stdout);
 // console.log(process);
 
 
@@ -138,9 +139,9 @@ console.log(`Hello! Node Play process initiated! ^_^`);
 // 		let dataStr = data.toString("utf-8");
 // 		console.log(`stdout: ${dataStr}`);
 
-// 		mainUtil.writeFile([__dirname, '..', 'data'], 'metadata', 'json', { dataStr });
+// 		file_util.methods.saveJSON(file_util.methods.pather([__dirname, '..', 'data'], 'metadata', 'json'), { dataStr });
 // 	})
 // 	mdls.stderr.on('data', (data) => console.log(`stderr: ${data}`));
 // 	mdls.on('close', (code) => console.log(`child process exited with code ${code}`));
 
-console.log(`//==================================//`);
+console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`);
