@@ -5,7 +5,7 @@ command line file management tool - helps with archiving &amp; categorizing
 
 # Technologies Used:
 
-NodeJS
+NodeJS + Mocha + Chai + HTML-Minifier + JS-Beautify
 
 # Installation Instructions:
 
