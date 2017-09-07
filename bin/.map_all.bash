@@ -14,3 +14,4 @@ node "${PWD}"/script/mapper.js "${TARGET_DIR}"/rbc_mock_data "${DATA_DIR}"/rbc_m
 # node "${PWD}"/script/mapper.js /Volumes/Work\ Passport/cinema "${DATA_DIR}"/cinema_map
 
 # Cinema
+# node "${PWD}"/script/mapper.js /Volumes/Passport/cinema "${DATA_DIR}"/cinema_map

@@ -13,3 +13,4 @@ node "${PWD}"/script/wrangler.js "${DATA_DIR}"/rbc_mock_data.json "${DATA_DIR}"
 # node "${PWD}"/script/wrangler.js "${DATA_DIR}"/cinema_map.json "${DATA_DIR}"
 
 # Cinema
+# node "${PWD}"/script/mapper.js /Volumes/Passport/cinema "${DATA_DIR}"/cinema_map
