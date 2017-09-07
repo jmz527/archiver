@@ -18,6 +18,7 @@ function wranglerInit(map) {
 	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
 	console.log(`\x1b[35m%s\x1b[0m`, `Hello! Data wrangling process initiated! ^_^`)
 	console.log(`\x1b[35m%s\x1b[0m`, `Now traversing the "${mapPath}" directory.`)
+	console.log(`\x1b[35m%s\x1b[0m`, `This may take a while`)
 	console.log(`\x1b[35m%s\x1b[0m`, `//==================================//`)
 
 

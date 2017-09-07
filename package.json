@@ -7,6 +7,7 @@
     "map": "./bin/.map_all.bash",
     "wrangle": "./bin/.wrangle_all.bash",
     "reform": "./bin/.reform_all.bash",
+    "model": "./bin/.model_all.bash",
     "purge": "./bin/.purge_all.bash",
     "test": "node_modules/.bin/mocha"
   },

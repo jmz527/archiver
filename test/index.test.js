@@ -1,7 +1,39 @@
 const chai = require(`chai`)
 
+const main_util = require(`../util/main_util`)
 const file_util = require(`../util/file_util`)
 const map_util = require(`../util/mapper_util`)
+
+
+// MAIN UTIL LIBRARY
+// =========================================================== //
+describe(`Main utility library`, () => {
+
+	it(`GenUUID returns a string`, () => {
+		chai.expect(main_util.methods.genUUID()).to.be.a(`string`);
+	})
+
+	it(`GenUUID generates proper UUIDs`, () => {
+		let regex, uuid
+			regex = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/
+			uuid = main_util.methods.genUUID()
+
+		chai.expect(regex.test(uuid)).to.be.true;
+	})
+
+	it(`_escapesString escapes single-quotes`, () => {
+		let str = main_util.methods._escapeString(`This is a demo string with 'single-quotes'`)
+
+		chai.assert.equal(str, `This is a demo string with \\\'single-quotes\\\'`)
+	})
+
+	it(`_escapesString escapes double-quotes`, () => {
+		let str = main_util.methods._escapeString(`This is a demo string with "double-quotes"`)
+
+		chai.assert.equal(str, `This is a demo string with \\"double-quotes\\"`)
+	})
+
+})
 
 
 // FILE UTIL LIBRARY
