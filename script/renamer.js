@@ -1,6 +1,7 @@
 const path = require(`path`)
 const cp = require(`child_process`)
 const file_util = require(`../util/file_util.js`)
+const main_util = require(`../util/main_util.js`)
 
 // GLOBAL VARIABLES
 //----------------------------------//
@@ -70,29 +71,25 @@ function filesRoundup(pathStr) {
 
 		if (files[i].match(/\s/g)) {
 
-			let oldPath = path.parse(path.join(pathStr, files[i]))
+			let oldPath = path.join(pathStr, files[i])
+			let obj = path.parse(oldPath)
 
 			let newPath = path.format({
 				root: '/',
-				dir: oldPath.dir,
-				base: oldPath.base.split(` `).join(`_`),
+				dir: obj.dir,
+				base: obj.base.split(` `).join(`_`),
 				ext: '.json',
-				name: oldPath.name.split(` `).join(`_`)
+				name: obj.name.split(` `).join(`_`)
 			})
 
-			console.log(obj)
+			oldPath = main_util.methods._escapeString(oldPath)
+			oldPath = oldPath.split(` `).join(`\\ `)
 
-			// newPath = path.join(pathStr, files[i].split(/\s/g).join('_'))
-			// files[i] = files[i].split(` `).join(`\\ `)
+			cp.exec(`mv -v ${oldPath} ${newPath}`, (err, stdout, stderr) => {
+				if (err) throw err
 
-			// console.log(path.join(pathStr, files[i]))
-			// console.log(path.join(pathStr, newPath))
-
-			// cp.exec(`mv -v ${path.join(pathStr, files[i])} ${newPath}`, (err, stdout, stderr) => {
-			// 	if (err) throw err
-
-			// 	console.log(`\x1b[36m%s\x1b[0m`, stdout);
-			// });
+				console.log(`\x1b[36m%s\x1b[0m`, stdout);
+			});
 
 		}
 

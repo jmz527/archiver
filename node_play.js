@@ -1,10 +1,10 @@
 const file_util = require(`./util/file_util.js`)
 
 // NODE MODULES:
-// const path = require(`path`)
-// const fs = require(`fs`)
-const os = require(`os`)
-// const cp = require(`child_process`)
+const path = require(`path`)
+const fs = require(`fs`)
+// const os = require(`os`)
+const cp = require(`child_process`)
 // const buff = require(`buffer`)
 
 
@@ -76,9 +76,15 @@ console.log(`\x1b[35m%s\x1b[0m`, `Hello! Node Play process initiated! ^_^`);
 
 // // CHILD_PROCESS MODULE
 // //--------------------------------------------------------------------------//
+// let basename = `Split.2016.1080p.BRRip.x264.AAC-ETRG.mp4`
+let basename = `Superstar\\ The\\ Karen\\ Carpenter\\ \\"Story\\".avi`
+
 // cp.exec('open ./map.json');
 // cp.exec('open -a "Google Chrome" https://nodejs.org/en/');
-// cp.exec(`open /Users/jamesrutledge/Movies/GO.m4v`);
+// cp.exec(`open /Users/jamesrutledge/Movies/${basename}`);
+cp.exec(`open -a "VLC" /Users/jamesrutledge/Movies/${basename}`);
+
+
 // cp.execSync()
 
 // cp.execFile('node', ['--version'], (err, stdout, stderr) => {
