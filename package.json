@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/jmz527/archiver#readme",
   "dependencies": {
-    "d3": "^4.11.0",
+    "d3": "3.5.17",
     "faker": "^3.1.0",
     "lodash": "^4.13.1",
     "react": "^16.0.0",
