@@ -20,10 +20,11 @@ class App extends Component {
   }
 
   render () {
-    const { trees, showing } = this.state
+    const { treeData } = this.state
     return (
       <div className='app'>
-        <p>{ JSON.stringify(treeData) }</p>
+
+        <DirTree treeData={treeData} />
 
 {/*
 

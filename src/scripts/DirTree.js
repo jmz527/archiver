@@ -153,6 +153,12 @@ class DirTree extends Component {
       <div className='dir-tree'>
         <h1>{this.props.treeData.rootDir}</h1>
         <div ref="target"></div>
+
+{/*
+        <p>{ JSON.stringify(this.props.treeData) }</p>
+*/}
+
+
       </div>
     )
   }

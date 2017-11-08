@@ -1,20 +1,20 @@
 {
     "rootDir": "/Users/jamesrutledge/Desktop/target_dirs/World",
     "data": {
-        "dirs": [
+        "children": [
             {
                 "name": "Africa",
-                "dirs": [
+                "children": [
                     {
                         "name": "Cameroon",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "Kribi.jpg"
                         ]
                     },
                     {
                         "name": "Ethiopia",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "Lalibela.jpg",
                             "blue_nile_falls.jpg"
@@ -22,14 +22,14 @@
                     },
                     {
                         "name": "Kenya",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "Nairobi.pdf"
                         ]
                     },
                     {
                         "name": "Zimbabwe",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "victoria_falls.jpg"
                         ]
@@ -39,10 +39,10 @@
             },
             {
                 "name": "Americas",
-                "dirs": [
+                "children": [
                     {
                         "name": "Argentina",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "iguazu_falls.jpg",
                             "la_boca_buenos_aires.jpg"
@@ -50,7 +50,7 @@
                     },
                     {
                         "name": "Brazil",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "christ_the_redeemer.jpg",
                             "rio_de_janeiro.jpg"
@@ -58,7 +58,7 @@
                     },
                     {
                         "name": "Canada",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "canadian_rockies.jpg",
                             "stanley_park.jpg"
@@ -66,7 +66,7 @@
                     },
                     {
                         "name": "Chile",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "easter_island.jpg",
                             "santiago.jpg"
@@ -74,7 +74,7 @@
                     },
                     {
                         "name": "United_States",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "grand_canyon.jpg",
                             "national_mall.jpg",
@@ -86,15 +86,15 @@
             },
             {
                 "name": "Antarctica",
-                "dirs": null,
+                "children": null,
                 "files": null
             },
             {
                 "name": "Asia",
-                "dirs": [
+                "children": [
                     {
                         "name": "India",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "jaipur.jpg",
                             "taj_mahal.jpg"
@@ -102,7 +102,7 @@
                     },
                     {
                         "name": "Japan",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "Meiji_Shrine.jpg",
                             "mount_fuji.jpg",
@@ -111,7 +111,7 @@
                     },
                     {
                         "name": "Vietnam",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "ho_chi_minh_city.jpg",
                             "po_nagar.jpg"
@@ -122,10 +122,10 @@
             },
             {
                 "name": "Australia",
-                "dirs": [
+                "children": [
                     {
                         "name": "Australia",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "sydney.jpg",
                             "sydney_opera_house.jpg"
@@ -136,10 +136,10 @@
             },
             {
                 "name": "Europe",
-                "dirs": [
+                "children": [
                     {
                         "name": "France",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "eiffel_tower.jpg",
                             "mona_lisa.jpg"
@@ -147,7 +147,7 @@
                     },
                     {
                         "name": "Italy",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "colosseum.jpg",
                             "trevi_fountain.jpg",
@@ -156,7 +156,7 @@
                     },
                     {
                         "name": "Luxembourg",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "alzette_river.jpg",
                             "notre-dame_cathedral.jpg"
@@ -164,7 +164,7 @@
                     },
                     {
                         "name": "Spain",
-                        "dirs": null,
+                        "children": null,
                         "files": [
                             "Madrid.jpg",
                             "sagrada_familia.jpg"
@@ -177,7 +177,7 @@
             },
             {
                 "name": "South_America",
-                "dirs": null,
+                "children": null,
                 "files": []
             }
         ],
@@ -191,7 +191,6 @@
     },
     "meta": {
         "fileCount": 40,
-        "dirCount": 24,
-        "depth": 1
+        "dirCount": 24
     }
 }

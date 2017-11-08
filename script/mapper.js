@@ -38,10 +38,10 @@ const mapperInit = (Mapr) => {
 const mapDirectory = (Mapr, Obj, pathStr) => {
 	// If the target dir has child dirs
   if (file_util.methods.hasDirs(pathStr)) {
-    Obj[`dirs`] = [] // make an array for them and round them up
+    Obj[`children`] = [] // make an array for them and round them up
     Obj = directoryRoundup(Mapr, Obj, pathStr)
   } else if (!file_util.methods.hasDirs(pathStr)) { // Else, set to null
-    Obj[`dirs`] = null
+    Obj[`children`] = null
   }
 
 	// If the target dir has Files
@@ -57,13 +57,13 @@ const mapDirectory = (Mapr, Obj, pathStr) => {
 
 // Maps the dirs within a given dir (defined by the pathStr) to the Obj
 const directoryRoundup = (Mapr, Obj, pathStr) => {
-  let dirPath, dirs = file_util.methods.getDirs(pathStr)
+  let dirPath, children = file_util.methods.getDirs(pathStr)
 
-  dirs.forEach((dir) => {
+  children.forEach((dir) => {
     let dirObj = { name: dir }
     dirPath = path.join(pathStr, dir)
 
-    Obj.dirs.push(mapDirectory(Mapr, dirObj, dirPath)) // <-- Recursive function here
+    Obj.children.push(mapDirectory(Mapr, dirObj, dirPath)) // <-- Recursive function here
     Mapr.meta.dirCount++
   })
 
