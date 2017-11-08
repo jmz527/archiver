@@ -14,6 +14,7 @@ module.exports = {
         loaders: [
             // babel is configured in `.babelrc`
             { test: /\.js$/, exclude: /node_modules/, loader: 'babel' },
+            { test: /\.json$/, loader: 'json' },
             { test: /\.css/, loader: 'style-loader!css-loader' },
             { test: /\.png/, loader: 'url-loader?limit=100000&mimetype=image/png' },
             { test: /\.gif/, loader: 'url-loader?limit=100000&mimetype=image/gif' },

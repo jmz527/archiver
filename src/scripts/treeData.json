@@ -1,21 +1,27 @@
-[
-  {
-    "name": "Root",
-    "children": [
-      {
-        "name": "Level 1 - A",
-        "children": [
-          {
-            "name": "Level 2 - A",
-          },
-          {
-            "name": "Level 2 - B",
-          }
+{
+    "rootDir": "/fake/root/to/dir",
+    "data": {
+        "dirs": {
+            "empty_folder": {
+                "dirs": null,
+                "files": null
+            },
+            "sub_folder": {
+                "dirs": null,
+                "files": [
+                    "second_with_spaces.json",
+                    "third_with_spaces.json"
+                ]
+            }
+        },
+        "files": [
+            "file_with_spaces.json",
+            "first_with_spaces.json"
         ]
-      },
-      {
-        "name": "Level 1 - B",
-      }
-    ]
-  }
-]
+    },
+    "meta": {
+        "fileCount": 4,
+        "dirCount": 2,
+        "depth": 2
+    }
+}

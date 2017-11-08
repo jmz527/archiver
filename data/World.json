@@ -1,0 +1,197 @@
+{
+    "rootDir": "/Users/jamesrutledge/Desktop/target_dirs/World",
+    "data": {
+        "dirs": [
+            {
+                "name": "Africa",
+                "dirs": [
+                    {
+                        "name": "Cameroon",
+                        "dirs": null,
+                        "files": [
+                            "Kribi.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Ethiopia",
+                        "dirs": null,
+                        "files": [
+                            "Lalibela.jpg",
+                            "blue_nile_falls.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Kenya",
+                        "dirs": null,
+                        "files": [
+                            "Nairobi.pdf"
+                        ]
+                    },
+                    {
+                        "name": "Zimbabwe",
+                        "dirs": null,
+                        "files": [
+                            "victoria_falls.jpg"
+                        ]
+                    }
+                ],
+                "files": []
+            },
+            {
+                "name": "Americas",
+                "dirs": [
+                    {
+                        "name": "Argentina",
+                        "dirs": null,
+                        "files": [
+                            "iguazu_falls.jpg",
+                            "la_boca_buenos_aires.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Brazil",
+                        "dirs": null,
+                        "files": [
+                            "christ_the_redeemer.jpg",
+                            "rio_de_janeiro.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Canada",
+                        "dirs": null,
+                        "files": [
+                            "canadian_rockies.jpg",
+                            "stanley_park.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Chile",
+                        "dirs": null,
+                        "files": [
+                            "easter_island.jpg",
+                            "santiago.jpg"
+                        ]
+                    },
+                    {
+                        "name": "United_States",
+                        "dirs": null,
+                        "files": [
+                            "grand_canyon.jpg",
+                            "national_mall.jpg",
+                            "nyc.jpg"
+                        ]
+                    }
+                ],
+                "files": []
+            },
+            {
+                "name": "Antarctica",
+                "dirs": null,
+                "files": null
+            },
+            {
+                "name": "Asia",
+                "dirs": [
+                    {
+                        "name": "India",
+                        "dirs": null,
+                        "files": [
+                            "jaipur.jpg",
+                            "taj_mahal.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Japan",
+                        "dirs": null,
+                        "files": [
+                            "Meiji_Shrine.jpg",
+                            "mount_fuji.jpg",
+                            "yoyogi_park.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Vietnam",
+                        "dirs": null,
+                        "files": [
+                            "ho_chi_minh_city.jpg",
+                            "po_nagar.jpg"
+                        ]
+                    }
+                ],
+                "files": []
+            },
+            {
+                "name": "Australia",
+                "dirs": [
+                    {
+                        "name": "Australia",
+                        "dirs": null,
+                        "files": [
+                            "sydney.jpg",
+                            "sydney_opera_house.jpg"
+                        ]
+                    }
+                ],
+                "files": []
+            },
+            {
+                "name": "Europe",
+                "dirs": [
+                    {
+                        "name": "France",
+                        "dirs": null,
+                        "files": [
+                            "eiffel_tower.jpg",
+                            "mona_lisa.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Italy",
+                        "dirs": null,
+                        "files": [
+                            "colosseum.jpg",
+                            "trevi_fountain.jpg",
+                            "venice.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Luxembourg",
+                        "dirs": null,
+                        "files": [
+                            "alzette_river.jpg",
+                            "notre-dame_cathedral.jpg"
+                        ]
+                    },
+                    {
+                        "name": "Spain",
+                        "dirs": null,
+                        "files": [
+                            "Madrid.jpg",
+                            "sagrada_familia.jpg"
+                        ]
+                    }
+                ],
+                "files": [
+                    ".carmen_sandiego.png"
+                ]
+            },
+            {
+                "name": "South_America",
+                "dirs": null,
+                "files": []
+            }
+        ],
+        "files": [
+            ".arctic_ocean.jpg",
+            ".atlantic_ocean.jpg",
+            ".indian_ocean.jpg",
+            ".pacific_ocean.jpg",
+            ".southern_ocean.jpg"
+        ]
+    },
+    "meta": {
+        "fileCount": 40,
+        "dirCount": 24,
+        "depth": 1
+    }
+}

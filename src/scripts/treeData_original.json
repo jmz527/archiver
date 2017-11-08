@@ -1,0 +1,16 @@
+{
+  "rootDir": "/fake/root/to/dir",
+  "data": {
+    "name": "Root",
+    "children": [
+      {
+        "name": "Level 1 - A",
+        "children": [
+          { "name": "Level 2 - A" },
+          { "name": "Level 2 - B" }
+        ]
+      },
+      { "name": "Level 1 - B" }
+    ]
+  }
+}
